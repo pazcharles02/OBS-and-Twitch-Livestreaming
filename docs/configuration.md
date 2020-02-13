@@ -7,19 +7,13 @@ nav_order: 2
 # Creating your server
 {: .no_toc }
 
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+You need to create the server to be able to store your website files. 
 {: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
-## Task One – Creating Your Server
+## Creating Your Server
 
 The first step to hosting a website is creating the server that will store the sites files.
 Currently, the best server for small websites is the $5/month plan on Digital Ocean.
