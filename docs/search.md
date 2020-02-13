@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uploading Serve Files
+title: Uploading Server Files
 nav_order: 4
 ---
 
