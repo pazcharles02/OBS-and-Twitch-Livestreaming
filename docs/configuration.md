@@ -22,6 +22,8 @@ We will show you how to setup this server in a few simple steps.
 
 1. Login to DigitalOcean.com
 
+![Login DO]()
+
 2. Go to the top-right corner and click the _Create Droplet_ button
 
 
