@@ -25,18 +25,18 @@ Login to DigitalOcean.com
 Go to the top-right corner and click the _Create Droplet_ button
 
 
-> Note: Ubuntu is the operating system that the server will run on. It is free to use,
+> **Note**: Ubuntu is the operating system that the server will run on. It is free to use,
 and one of the most commonly used operating systems to run servers.
 
 Select _Ubuntu_ under the distributions tab.
 
-> Warning: If you do not choose the $5/month option, you could be billed a larger
+> **Warning**: If you do not choose the $5/month option, you could be billed a larger
 amount for the server.
 
 Scroll down to the _Choose a size_ option and select the _$ 5 /mo_ size.
 
 
-> Note: You may choose any datacenter location below. The Toronto option was
+> **Note**: You may choose any datacenter location below. The Toronto option was
 simply chosen for these instructions.
 
 Scroll down to the *Choose a datacenter region* option and select _Toronto._
