@@ -33,6 +33,8 @@ and one of the most commonly used operating systems to run servers.
 
 3. Select _Ubuntu_ under the distributions tab.
 
+    ![Choose Ubuntu](https://github.com/SammyJLee/Documentation/tree/gh-pages/assets/images/Do-Choose-Ubuntu-Dpoplet.PNG?raw=true)
+
     > **Warning**: If you do not choose the $5/month option, you could be billed a larger
 amount for the server.
 
