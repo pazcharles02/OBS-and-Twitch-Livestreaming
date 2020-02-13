@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Connecting and Starting the Server
 nav_order: 6
 ---
 
