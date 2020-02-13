@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Creating your server
 nav_order: 2
 ---
 
