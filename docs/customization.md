@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Connecting and Starting the Server
-nav_order: 6
+nav_order: 3
 ---
 
 # Customization
