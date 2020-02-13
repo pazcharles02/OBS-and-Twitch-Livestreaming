@@ -26,7 +26,7 @@ We will show you how to setup this server in a few simple steps.
 
 2. Go to the top-right corner and click the *Create Droplet* button
 
-![Create Droplet](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-create-droplet.PNG?raw=true "Create Droplet")
+![Create Droplet](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Create-Droplet.PNG?raw=true "Create Droplet")
 
 > **Note**: Ubuntu is the operating system that the server will run on. It is free to use,
 and one of the most commonly used operating systems to run servers.
