@@ -3,7 +3,16 @@ layout: default
 title: Troubleshooting
 nav_order: 7
 ---
+# Troubleshooting
+{: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 # Can’t Connect To Server?
 
 Check Digital Oceans Twitter account or your email address for any downtime at the
