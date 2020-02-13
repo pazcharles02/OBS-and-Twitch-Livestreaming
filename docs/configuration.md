@@ -48,6 +48,13 @@ simply chosen for these instructions.
 
 5. Scroll down to the *Choose a datacenter region* option and select _Toronto._
 
+    ![Choose Region](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Choose-Size-Select-Toronto.PNG?raw=true)
+
 6. Scroll down to the *Finalize and create* option and name your Droplet.
+    
+    ![Finalize](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Finalize-Droplet.PNG?raw=true)
+
 
 7. Click the *Create* button to finalize and complete the droplet setup.
+
+   ![Choose Region](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Finalize-Droplet.PNG?raw=true)
