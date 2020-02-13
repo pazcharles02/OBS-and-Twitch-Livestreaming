@@ -58,3 +58,5 @@ simply chosen for these instructions.
 7. Click the *Create* button to finalize and complete the droplet setup.
 
    ![Choose Region](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Finalize-Droplet.PNG?raw=true)
+   
+**Well done!** You have successfully created a server and are ready to connect and start the server. 
