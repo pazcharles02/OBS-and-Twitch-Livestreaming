@@ -17,7 +17,7 @@ nav_order: 7
 
 Check Digital Oceans Twitter account or your email address for any downtime at the
 service. This is a typical occurrence at some of their datacenters around the country.
-Digital Ocean has a [real-time uptime status](twitter.com/dostatus) with the latest information. 
+Digital Ocean has a [real-time uptime status](https://twitter.com/dostatus) with the latest information. 
 
 # Forgot Password?
 
