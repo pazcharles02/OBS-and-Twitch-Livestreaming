@@ -40,6 +40,8 @@ amount for the server.
 
 4. Scroll down to the _Choose a size_ option and select the _$ 5 /mo_ size.
 
+     ![Choose Size](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Choose-Size.PNG?raw=true)
+
 
     > **Note**: You may choose any datacenter location below. The Toronto option was
 simply chosen for these instructions.
