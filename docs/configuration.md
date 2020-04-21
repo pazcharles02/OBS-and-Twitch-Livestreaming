@@ -4,80 +4,50 @@ title: What do we do in meetings?
 nav_order: 2
 ---
 
-## Sample Meeting Minutes
+## Meetings
 
-This sample shows how the minutes follow the expectations. See how the items are clear for the reader, and see how the focus is on action to move the project forward. 
+This section contains information, templates and samples about team meetings, minutes, and agendas.
 
-Even though your team has different roles and responsibilities, all team members are involved and do something to improve the overall project. 
+You can use the Meeting Minutes Template for all your team meetings.
 
-The minutes are quite long, and this length shows the team has discussed lots of issues and worked hard to make the project thorough. 
+Remember, each person should be responsible for elements of the team meetings. One person will create the agenda (after consulting everyone), one will chair the meeting, and one will record the minutes and upload them.
 
-**Minutes**
-Dreem Team
+Practice meetings, setting agendas and creating minutes to show your skills for future employers. Meetings are common to all organizations.
 
-January 24, 2020 1 pm
+The focus in this section is on why we have team meetings, the roles assigned to meetings, and how meeting documents should be created.
 
-**Present**: Ramin (Chair), Sam (Recorder), Jason, Tessa.
-**Absent**: Carlos had to have an interview with future employer.
+**Learning Objectives**
 
-**1. Approval of agenda**
+In this section, you will focus team meetings for your project and:
 
-Agenda was approved
+- reflect on why meetings are essential
+- determine the roles of each person in the meetings
+- create agendas and minutes that meet criteria
 
-**2. Approval of previous minutes**
+## The value of meetings
 
-Minutes of January 17 approved
+Your project is unique; you have teams of people who haven't met before. As you are working on a project together, you need to communicate effectively, and team meetings are one place to do that.
 
-**3. Progress Reports**
+Team meetings are vital for all project work. Here are a few valuable reasons for having meetings:
 
-**a. Changes to artwork (Carlos)**
+- They enable all of you to know what people are going to do, ensuring that things get done on your project.
+- They allow you to come together, check in on work progress, and help each other out with problems.
+- They can improve team performance and project quality.
+- They improve collaboration on projects, especially in this project where you are in different locations and on different courses.
+- They allow you to gel as a team. The meeting is your opportunity to share.
 
-   The group looked at the current artwork, sent by Carlos. The group decided that the homepage image is too large and needs to be cropped or resized. As Carlos is responsible for this and other work depends on this, he will need to complete this by Jan 31 so that other work can continue. Sam will contact Carlos via Slack as well as send these minutes by tomorrow. Sam will check that the date is doable for Carlos.
+## Dangers of not having meetings
 
-   **b. Changes to navigation links (Jason)**
+As meetings allow you all to keep updated, discuss ideas, and share progress, they can make sure all team members understand what is happening, who is doing what, and how you can all work together.
 
-   Jason showed the navigation structure. The group decided that the navigation links needed to be reordered: Home, Hours, Resources, Search should be the new order. Jason will make the changes by Jan 30.
+Without meetings, these things can happen:
 
-   **c. Task Schedule update (Ramin)**
+- People work on things which haven't been approved by the team. Everyone must be on the same page;
+- Time can be wasted; the meetings enable you to carry on where you left off;
+- Important information can get lost. The meeting is the place for you to document all work, what needs to be done, by whom, and by when;
+- Social loafers (aka Slackers) can coast through. Meetings allow you to keep the team on task, even when you all have different levels of work through the project.
 
-   Ramin has completed the current task schedule. Everyone agreed that it is fair. He and Tessa are working together to update this and the Trello board to keep all work tasks up to date.
+The next part goes over *agendas* and *meeting minutes*. 
+These are vital to productive meetings; **productivity is the goal of every meeting**. Action is the goal of all meetings, moving the team and project forward always.
 
-   **d. Back end update (Sam)**
-
-   Sam is developing his back-end knowledge in the FWSD course. He is currently using Google Firebase and wants to learn MySQL as he feels it has better options. He will report on his updates for the next meeting and have a choice made for back-end
-
-   **e. Trello Board Update (Tessa)**
-
-   Tessa showed the Trello board and is updating it with all the project tasks currently known. She will continue to update this and needs everyone to update the board as they move forward with work. The group agreed to update Trello every two days. Tessa will update Carlos.
-
-**4. New work**
-
-**a. User Stories Creation** 
-
-The group decided that ten user stories were needed to make the site fully focused on all users. Currently we only have three. Ramin and Tessa will continue to work on these in the next three weeks.
-
-**b. Usability Benchmarks Research**
-    The group has decided to outline their usability benchmarks for the website now. Jason and Sam will research the criteria that can be used and bring them to the next meeting for the group to decide
-
-**c. Asset Folder Structure**
-
-Carlos emailed Ramin to let him know that the folder structure for assets needs to be updated. The group decided that this is priority and needs to be complete by Jan 27 to move forward well.
-
-**5. Any other business**
-
-**a. Communication improvements**
-
-Sam would like more communication to any changes made in between meetings as he is not at Burnaby and wants to be kept updated on changes more frequently. The group decided that any changes to the GitHub should be followed by a Slack comment for the team to make sure everyone sees changes.
-
-**b. GitHub Documentation Improvements**
-
-The group is working well and each person is clear of their tasks as we go ahead. As Sam will be doing a lot of coding solo in April, we have made a clear aim to document changes in the GitHub repository to make clear how all the front end works.
-
-**c. Meeting Format** 
-
-The group agreed that one hour is enough for meetings and that FaceTime is working as they all have iPhones.
-
-
-**6. Next Meeting**
-
-The next meeting will be on February 29 at 1pm using FaceTime. Jason is the next chair and Tessa the next recorder. Carlos will send email regarding agendas. We will be focusing on making user all the team is on task, look at problems people are having, and assess the benefits of the Trello board.
+> **Takeaway:** Meetings have little value if there is no action.
