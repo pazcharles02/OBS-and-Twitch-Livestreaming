@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting
+title: Team Member Responsibilities
 nav_order: 7
 ---
 # Troubleshooting
