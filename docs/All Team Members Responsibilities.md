@@ -1,3 +1,9 @@
+---
+layout: default
+title: Testing your ability to do this
+nav_order: 2
+---
+
 ## All team members responsibilities
 You have created responsibilities for teammates in your team charter.
 
