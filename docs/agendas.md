@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What do we do in meetings?
+title: Meeting Agendas
 nav_order: 3
 ---
 
