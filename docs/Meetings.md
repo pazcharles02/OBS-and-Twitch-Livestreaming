@@ -14,16 +14,6 @@ Remember, each person should be responsible for elements of the team meetings. O
 
 Practice meetings, setting agendas and creating minutes to show your skills for future employers. Meetings are common to all organizations.
 
-The focus in this section is on why we have team meetings, the roles assigned to meetings, and how meeting documents should be created.
-
-**Learning Objectives**
-
-In this section, you will focus team meetings for your project and:
-
-- reflect on why meetings are essential
-- determine the roles of each person in the meetings
-- create agendas and minutes that meet criteria
-
 ## The value of meetings
 
 Your project is unique; you have teams of people who haven't met before. As you are working on a project together, you need to communicate effectively, and team meetings are one place to do that.
