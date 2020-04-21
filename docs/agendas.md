@@ -1,7 +1,8 @@
-
-
-
-
+---
+layout: default
+title: What do we do in meetings?
+nav_order: 3
+---
 
 ## Agendas
 
