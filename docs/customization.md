@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What to do: The Meetign Chair
+title: The Meeting Chair
 nav_order: 3
 ---
 
