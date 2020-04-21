@@ -1,3 +1,9 @@
+---
+layout: default
+title: Meetings Overview
+nav_order: 1
+---
+
 ## Meetings
 
 This section contains information, templates and samples about team meetings, minutes, and agendas.
