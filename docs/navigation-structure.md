@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossary
+title: Sample Meeting Minutes
 nav_order: 5
 ---
 
