@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team Member Responsibilities
-nav_order: 7
+nav_order: 6
 ---
 # Troubleshooting
 {: .no_toc }
