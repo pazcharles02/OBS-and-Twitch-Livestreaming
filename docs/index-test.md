@@ -3,33 +3,19 @@ layout: default
 title: Team Member Responsibilities
 nav_order: 6
 ---
-# Troubleshooting
-{: .no_toc }
+## All team members responsibilities
+You have created responsibilities for teammates in your team charter.
 
-## Table of contents
-{: .no_toc .text-delta }
+To make sure your meeting works well, all people at the meeting should check the charter to understand expected behaviour.
 
-1. TOC
-{:toc}
+Some key ideas for good meetings include the following: 
 
----
-# Can’t Connect To Server?
-
-Check Digital Oceans Twitter account or your email address for any downtime at the
-service. This is a typical occurrence at some of their datacenters around the country.
-Digital Ocean has a [real-time uptime status](https://twitter.com/dostatus) with the latest information. 
-
-# Forgot Password?
-
-If you forget your password, visit the *Access* tab and press the *Reset Root Password*
-button for a new server password.
-
-![Reset Password](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Reset-Password.PNG?raw=true "Reset Password Screen")
-
-# No Datacenter In Your Country?
-
-Picking a datacenter closer to where you live will increase loading speeds for your web
-server. 
-
-Digital Ocean is currently expanding its business into multiple countries, so a
-datacenter closer to you will eventually show up.
+- Arrive on time.
+- Keep an open mind.
+- Actively listen and respect the opinions of others.
+- Participate.
+- Avoid dominating.
+- Avoid conflict situations.
+- Ask questions to help with your understanding.
+- Note down any actions that you have to do from the meeting. 
+- Work on your agreed actions.
