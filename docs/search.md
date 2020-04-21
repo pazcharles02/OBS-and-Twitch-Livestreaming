@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What to do: The Recorder
+title: The Recorder
 nav_order: 4
 ---
 
