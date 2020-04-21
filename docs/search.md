@@ -4,82 +4,82 @@ title: What to do: The Recorder
 nav_order: 4
 ---
 
-# Search
-{: .no_toc }
+## The Meeting Recorder
 
-## Table of contents
-{: .no_toc .text-delta }
+The Recorder should take notes during a meeting (see below for template and instructions) and then turn those notes into meeting minutes. 
 
-1. TOC
-{:toc}
 
----
+The Recorder should complete the minutes up to one day after the meeting, post them to Learning Hub (Assignments, Meeting 1 Minutes) and send them to team members.
 
-Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points:
+Include the word “Minutes” , your team name, and the meeting date in the file name.
 
-- Page title
-- Page content
-- Page URL
+**Example**: Dream Team Minutes January 24, 2020
 
-## Set up search
+Meeting minutes instructions and template for recorder
+The recorder needs to take notes as they wish and then record the notes using the template below. Here are some tips.
 
-### Generate search index
+**Use complete sentences**
 
-Before you can use search, you must initialize the feature by running this `rake` command that comes with `just-the-docs`:
+Anyone reading the minutes (whether they were at the meeting or not) should be able to quickly and easily understand what was done/decided from your minutes.
 
-```bash
-$ bundle exec just-the-docs rake search:init
-```
+**Record actions/decisions, not conversations**
 
-This command creates the `search-data.json` file that Jekyll uses to create your search index. Alternatively, you can create the file manually in the `assets/js/` directory of your Jekyll site with this content:
+Minutes shouldn’t contain who said what.
 
-```liquid
-{% raw %}---
----
-{
-  {% assign comma = false %}
-  {% for page in site.html_pages %}{% if page.search_exclude != true %}{% if comma == true%},{% endif %}"{{ forloop.index0 }}": {
-    "title": "{{ page.title | replace: '&amp;', '&' }}",
-    "content": "{{ page.content | markdownify | replace: '</h', ' . </h' | replace: '<hr', ' . <hr' | replace: '</p', ' . </p' | replace: '</ul', ' . </ul' | replace: '</tr', ' . </tr' | replace: '</li', ' | </li' | replace: '</td', ' | </td' | strip_html | escape_once | remove: 'Table of contents' | remove: '```'  | remove: '---' | replace: '\', ' ' | replace: ' .  .  . ', ' . ' | replace: ' .  . ', ' . ' | normalize_whitespace }}",
-    "url": "{{ page.url | absolute_url }}",
-    "relUrl": "{{ page.url }}"
-  }{% assign comma = true %}
-  {% endif %}{% endfor %}
-}{% endraw %}
-```
+Instead, you want to simply say what the group did/decided (briefly!) and who will do what by when to follow up (if needed):
 
-_Note: If you don't run this rake command or create this file manually, search will not work (or it will use the search index data from this docs site, not your site's content)._
 
-### Enable search in configuration
+X Bad example: Susie said a,b,c, Fred said d, e, f, the group decided z.
 
-In your site's `_config.yml`, enable search:
 
-```yaml
-# Enable or disable the site search
-search_enabled: true
-```
+√ Good example: The group discussed y and decided z. Susie will email a draft to all team members by Feb 10, 2020.
 
-The default is for hyphens to separate tokens in search terms:
-`gem-based` is equivalent to `gem based`, matching either word.
-To allow search for hyphenated words:
 
-```yaml
-# Set the search token separator
-search_tokenizer_separator: /[\s/]+/
-```
+**Match agenda items/numbering exactly**
 
-## Hiding pages from search
+The minutes for a meeting should always match its agenda exactly. In other words, the minutes contain the same numbered/lettered topics, but just with the news/decisions added.
 
-Sometimes you might have a page that you don't want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the `search_exclude: true` parameter to the page's YAML front matter:
+**Format effectively for easy skimming**
 
-#### Example
-{: .no_toc }
+As always, use graphic highlighting techniques effectively.
 
-```yaml
----
-layout: default
-title: Page not found
-nav_exclude: true
-search_exclude: true
----
-```
+Look at this template, which follows the agenda.
+
+    **MINUTES**  
+
+    **Name of Your Group** 
+
+    Date and Time of Meeting
+
+    Present: name (Chair), name (Recorder), name, name.
+
+    Absent: name(s) and reason for absence
+
+    1. Approval of agenda
+        Record “Agenda was approved” (unless anyone suggests changes).
+
+    2. Approval of previous minutes
+        Record “Minutes of [date] approved” (unless anyone suggests changes).
+
+    3. Progress Reports
+        a. Item. 
+        Record what the group did/decided and who will do what by when to follow up.
+        b. Item.
+        Record what the group did/decided and who will do what by when to follow up.
+    4. New work
+        a. Item.
+        Record what the group did/decided and who will do what by when to follow up.
+        b. Item.
+        Record what the group did/decided and who will do what by when to follow up.
+        c. Item
+    5. Any other business
+        a. Item.
+        Record any new items that were not on the agenda
+
+        b. Item.
+        Record these one by one using a, b, c format.
+
+    6. Next Meeting
+    Record the date, time, and location of your next meeting. Record what the focus will be (any questions or actions for the next meeting)
+
+**Create the minutes in a Word document using the template above.**    
