@@ -18,6 +18,7 @@ Dreem Team
 January 24, 2020 1 pm
 
 **Present**: Ramin (Chair), Sam (Recorder), Jason, Tessa.
+
 **Absent**: Carlos had to have an interview with future employer.
 
 **1. Approval of agenda**
