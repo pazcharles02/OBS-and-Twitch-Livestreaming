@@ -1,62 +1,83 @@
 ---
 layout: default
-title: Creating your server
+title: What do we do in meetings?
 nav_order: 2
 ---
 
-# Creating your server
-{: .no_toc }
+## Sample Meeting Minutes
 
-You need to create the server to be able to store your website files. 
-{: .fs-6 .fw-300 }
+This sample shows how the minutes follow the expectations. See how the items are clear for the reader, and see how the focus is on action to move the project forward. 
+
+Even though your team has different roles and responsibilities, all team members are involved and do something to improve the overall project. 
+
+The minutes are quite long, and this length shows the team has discussed lots of issues and worked hard to make the project thorough. 
+
+**Minutes**
+Dreem Team
+
+January 24, 2020 1 pm
+
+**Present**: Ramin (Chair), Sam (Recorder), Jason, Tessa.
+**Absent**: Carlos had to have an interview with future employer.
+
+**1. Approval of agenda**
+
+Agenda was approved
+
+**2. Approval of previous minutes**
+
+Minutes of January 17 approved
+
+**3. Progress Reports**
+
+**a. Changes to artwork (Carlos)**
+
+   The group looked at the current artwork, sent by Carlos. The group decided that the homepage image is too large and needs to be cropped or resized. As Carlos is responsible for this and other work depends on this, he will need to complete this by Jan 31 so that other work can continue. Sam will contact Carlos via Slack as well as send these minutes by tomorrow. Sam will check that the date is doable for Carlos.
+
+   **b. Changes to navigation links (Jason)**
+
+   Jason showed the navigation structure. The group decided that the navigation links needed to be reordered: Home, Hours, Resources, Search should be the new order. Jason will make the changes by Jan 30.
+
+   **c. Task Schedule update (Ramin)**
+
+   Ramin has completed the current task schedule. Everyone agreed that it is fair. He and Tessa are working together to update this and the Trello board to keep all work tasks up to date.
+
+   **d. Back end update (Sam)**
+
+   Sam is developing his back-end knowledge in the FWSD course. He is currently using Google Firebase and wants to learn MySQL as he feels it has better options. He will report on his updates for the next meeting and have a choice made for back-end
+
+   **e. Trello Board Update (Tessa)**
+
+   Tessa showed the Trello board and is updating it with all the project tasks currently known. She will continue to update this and needs everyone to update the board as they move forward with work. The group agreed to update Trello every two days. Tessa will update Carlos.
+
+**4. New work**
+
+**a. User Stories Creation** 
+
+The group decided that ten user stories were needed to make the site fully focused on all users. Currently we only have three. Ramin and Tessa will continue to work on these in the next three weeks.
+
+**b. Usability Benchmarks Research**
+    The group has decided to outline their usability benchmarks for the website now. Jason and Sam will research the criteria that can be used and bring them to the next meeting for the group to decide
+
+**c. Asset Folder Structure**
+
+Carlos emailed Ramin to let him know that the folder structure for assets needs to be updated. The group decided that this is priority and needs to be complete by Jan 27 to move forward well.
+
+**5. Any other business**
+
+**a. Communication improvements**
+
+Sam would like more communication to any changes made in between meetings as he is not at Burnaby and wants to be kept updated on changes more frequently. The group decided that any changes to the GitHub should be followed by a Slack comment for the team to make sure everyone sees changes.
+
+**b. GitHub Documentation Improvements**
+
+The group is working well and each person is clear of their tasks as we go ahead. As Sam will be doing a lot of coding solo in April, we have made a clear aim to document changes in the GitHub repository to make clear how all the front end works.
+
+**c. Meeting Format** 
+
+The group agreed that one hour is enough for meetings and that FaceTime is working as they all have iPhones.
 
 
----
+**6. Next Meeting**
 
-## Creating Your Server
-
-The first step to hosting a website is creating the server that will store the sites files.
-Currently, the best server for small websites is the $5/month plan on Digital Ocean.
-We will show you how to setup this server in a few simple steps.
-
-
-1. Login to DigitalOcean.com
-
-    ![Login DO](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Login.PNG?raw=true "Login Screen")
-
-2. Go to the top-right corner and click the *Create Droplet* button
-
-    ![Create Droplet](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Create-Droplet.PNG?raw=true "Create   Droplet")
-
-    > **Note**: Ubuntu is the operating system that the server will run on. It is free to use,
-and one of the most commonly used operating systems to run servers.
-
-3. Select _Ubuntu_ under the distributions tab.
-
-    ![Choose Ubuntu](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Choose-Ubuntu-Dpoplet.PNG?raw=true)
-
-    > **Warning**: If you do not choose the $5/month option, you could be billed a larger
-amount for the server.
-
-4. Scroll down to the _Choose a size_ option and select the _$ 5 /mo_ size.
-
-     ![Choose Size](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Choose-Size.PNG?raw=true)
-
-
-    > **Note**: You may choose any datacenter location below. The Toronto option was
-simply chosen for these instructions.
-
-5. Scroll down to the *Choose a datacenter region* option and select _Toronto._
-
-    ![Choose Region](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Choose-Size-Select-Toronto.PNG?raw=true)
-
-6. Scroll down to the *Finalize and create* option and name your Droplet.
-    
-    ![Finalize](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Finalize-Droplet.PNG?raw=true)
-
-
-7. Click the *Create* button to finalize and complete the droplet setup.
-
-   ![Choose Region](https://github.com/SammyJLee/Documentation/blob/gh-pages/assets/images/DO-Finalize-Droplet.PNG?raw=true)
-   
-**Well done!** You have successfully created a server and are ready to connect and start the server. 
+The next meeting will be on February 29 at 1pm using FaceTime. Jason is the next chair and Tessa the next recorder. Carlos will send email regarding agendas. We will be focusing on making user all the team is on task, look at problems people are having, and assess the benefits of the Trello board.
