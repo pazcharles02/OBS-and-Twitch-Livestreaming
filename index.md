@@ -1,37 +1,55 @@
 ---
 layout: default
-title: Introduction
+title: Meetings Overview
 nav_order: 1
-description: "Testing GitHub and Jekyll to allow students to create online user docs.."
+description: "Working together to get it done"
 permalink: /
 ---
 
-# Introduction
-{: .fs-9 }
+## Meetings
 
-This instruction set will guide you in the use of Digital Ocean.
-{: .fs-6 .fw-300 }
+This section contains information, templates and samples about team meetings, minutes, and agendas.
 
----
+You can use the Meeting Minutes Template for all your team meetings.
 
-These instructions are on how to create, connect, and upload your first website using
-the online application Digital Ocean. The application makes hosting a web server super
-easy. It’s used by students and industry professionals every day because of its cheap
-prices, and basic user interface.
+Remember, each person should be responsible for elements of the team meetings. One person will create the agenda (after consulting everyone), one will chair the meeting, and one will record the minutes and upload them.
 
-This manual is for users with some basic server administration skills, so they can learn
-how to navigate and use the Digital Ocean platform.
+Practice meetings, setting agendas and creating minutes to show your skills for future employers. Meetings are common to all organizations.
 
-For this tutorial, we will be using the most recent version of the Digital Ocean
-application. The website requires you to use the most recent version, so no need to
-worry about which version you use.
+The focus in this section is on why we have team meetings, the roles assigned to meetings, and how meeting documents should be created.
 
-## Prerequisites
+**Learning Objectives**
 
-To follow these instructions, you will need:
+In this section, you will focus team meetings for your project and:
 
-- Mac Operating System.
-- DigitalOcean.com Account.
-- FileZilla File Upload Application.
-- Basic server administration skills.
-- Website Code Files.
+- reflect on why meetings are essential
+- determine the roles of each person in the meetings
+- create agendas and minutes that meet criteria
+
+## The value of meetings
+
+Your project is unique; you have teams of people who haven't met before. As you are working on a project together, you need to communicate effectively, and team meetings are one place to do that.
+
+Team meetings are vital for all project work. Here are a few valuable reasons for having meetings:
+
+- They enable all of you to know what people are going to do, ensuring that things get done on your project.
+- They allow you to come together, check in on work progress, and help each other out with problems.
+- They can improve team performance and project quality.
+- They improve collaboration on projects, especially in this project where you are in different locations and on different courses.
+- They allow you to gel as a team. The meeting is your opportunity to share.
+
+## Dangers of not having meetings
+
+As meetings allow you all to keep updated, discuss ideas, and share progress, they can make sure all team members understand what is happening, who is doing what, and how you can all work together.
+
+Without meetings, these things can happen:
+
+- People work on things which haven't been approved by the team. Everyone must be on the same page;
+- Time can be wasted; the meetings enable you to carry on where you left off;
+- Important information can get lost. The meeting is the place for you to document all work, what needs to be done, by whom, and by when;
+- Social loafers (aka Slackers) can coast through. Meetings allow you to keep the team on task, even when you all have different levels of work through the project.
+
+The next part goes over *agendas* and *meeting minutes*. 
+These are vital to productive meetings; **productivity is the goal of every meeting**. Action is the goal of all meetings, moving the team and project forward always.
+
+> **Takeaway:** Meetings have little value if there is no action.
