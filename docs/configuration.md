@@ -4,50 +4,125 @@ title: What do we do in meetings?
 nav_order: 2
 ---
 
-## Meetings
+## What do we do in meetings?
 
-This section contains information, templates and samples about team meetings, minutes, and agendas.
+Meetings are an excellent way to check in with all members about the following:
 
-You can use the Meeting Minutes Template for all your team meetings.
+- How is the project developing? Progress updates are essential.
+- Are people on track? Make sure the task schedule is being followed.
+- Does the team agree with the work being done? Make sure you have consensus through discussion.
+- Is the workload distribution fair? Make sure everyone is happy with task allocation.
+- Are there any issues that needs addressing/resolving? Clear up issues in meetings.
+- Are all members contributing to the best of their abilities?
+- Do any members need extra help/clarification? Should the team help or should the member consult the instructor?
+- What is the next stage of work that we'll discuss in the next meeting?
 
-Remember, each person should be responsible for elements of the team meetings. One person will create the agenda (after consulting everyone), one will chair the meeting, and one will record the minutes and upload them.
+You'll receive templates of what to include, but the basics of meetings are action: *what have we done, what will we do, who will do it, by when*?
 
-Practice meetings, setting agendas and creating minutes to show your skills for future employers. Meetings are common to all organizations.
 
-The focus in this section is on why we have team meetings, the roles assigned to meetings, and how meeting documents should be created.
+Do not leave any issues unresolved; work on them (with instructor help as needed) right away!
 
-**Learning Objectives**
+For meetings to work well, you should have a pre-set agenda.
 
-In this section, you will focus team meetings for your project and:
+## Agendas
 
-- reflect on why meetings are essential
-- determine the roles of each person in the meetings
-- create agendas and minutes that meet criteria
+What is the agenda? What is the agenda goal? 
 
-## The value of meetings
+The agenda is a short list of topics that you will work on in the meeting.
 
-Your project is unique; you have teams of people who haven't met before. As you are working on a project together, you need to communicate effectively, and team meetings are one place to do that.
+The main goal of the agenda is to decide what you want to get done at the meeting.
 
-Team meetings are vital for all project work. Here are a few valuable reasons for having meetings:
+In the meeting itself, you can add any new information that is not on the list, but one goal of the agenda is to make sure all the important information you need to discuss is included beforehand.
 
-- They enable all of you to know what people are going to do, ensuring that things get done on your project.
-- They allow you to come together, check in on work progress, and help each other out with problems.
-- They can improve team performance and project quality.
-- They improve collaboration on projects, especially in this project where you are in different locations and on different courses.
-- They allow you to gel as a team. The meeting is your opportunity to share.
+### What goes in the agenda?
 
-## Dangers of not having meetings
+Agendas can include:
 
-As meetings allow you all to keep updated, discuss ideas, and share progress, they can make sure all team members understand what is happening, who is doing what, and how you can all work together.
+- **Information**: For example, this could be updates on work.
+- **Action items**: what actions do you want to review and what actions do you want to set? For example, Sunny will conduct user tests on March 12
+- **Discussion**: what things do you want the team to discuss? For example, do we all like the graphics? Do we need to change the order of navigation links?
 
-Without meetings, these things can happen:
+### Who is involved in the agenda?
 
-- People work on things which haven't been approved by the team. Everyone must be on the same page;
-- Time can be wasted; the meetings enable you to carry on where you left off;
-- Important information can get lost. The meeting is the place for you to document all work, what needs to be done, by whom, and by when;
-- Social loafers (aka Slackers) can coast through. Meetings allow you to keep the team on task, even when you all have different levels of work through the project.
+One person each meeting should be responsible for the agenda, and everyone in the team should and can add to the agenda. 
 
-The next part goes over *agendas* and *meeting minutes*. 
-These are vital to productive meetings; **productivity is the goal of every meeting**. Action is the goal of all meetings, moving the team and project forward always.
+The person responsible for the agenda should get feedback from all teammates on what they’d like to include in the next meeting.
+This feedback can be sent via email or other communication channel. It can look like this sample below:
 
-> **Takeaway:** Meetings have little value if there is no action.
+    Sample Email for Agenda
+    To: Team
+    From: Best student
+    Subject: Agenda for meeting on April 23, 2020
+
+    Hi all,
+
+    We will be meeting by Zoom at 1:00 p.m. on Thursday, April 23. The chair - Tania -  will open the Zoom call and invite everyone in.
+
+    Agenda:
+
+    - Progress report from each team member (15 mins total)
+    - Please add your items here so I can update final agenda.
+    - Set tasks/new work for next month (20 mins)
+    - Please add your items here so I can update final agenda. 
+    - Discuss and update task schedule (15 mins)
+    - Any other business
+
+    Let me know anything else that we need to include.
+
+    The meeting chair will be Tania, and the recorder will be Jun.
+
+    Please email me by Weds, April 22 at 5 p.m. with your updates and if is anything else you think we need to add to the agenda.
+
+    I will send out the final agenda at 6 p.m. on Weds April 22.
+
+    Thanks,
+    Sarahi
+
+### What happens next? 
+
+The person responsible for the agenda should then update the following document, share it with teammates (your choice of communication) and bring it to the meeting.
+
+### Agenda Template
+
+Use this template for all your meeting agendas.
+
+The person responsible needs to complete it fully, send to all teammates (using communication tool of your choice) and instructors (Learning Hub Assignments, Agendas), and the Chair needs to bring it to the next meeting. 
+
+    AGENDA
+    Name of Your Group
+    Date, Time, and Location of Your Meeting
+
+    1. **Approval of agenda**
+    2. **Approval of previous minutes**
+    3. **Progress Reports on past meeting items**
+        a. Topic (estimated time)
+        b. Topic (x minutes)
+
+    1. **New Work**
+        a. Topic (x minutes)
+        b. Topic (x minutes)
+        c. etc.
+
+    1. **Any other business**
+    1. **Next Meeting**
+
+
+### Agenda Item Explanations
+
+Similar to email subject lines, agenda items are phrases, not sentences. They should make the topic/task clear, and they’re often focused on action.
+
+**Approval of Agenda**. This is a standard item, so simply copy it as the #1 item for each meeting’s agenda. It allows members to either approve the topics or change them as the first meeting action. Every agenda (including the first one) should have this item first.
+
+**Approval of Minutes**. This is a standard item, so copy it as the #2 item for each meeting’s agenda. It allows members to change/correct any problems they noticed with the meeting minutes from the last meeting. Every agenda (except the first one) should have this item second.
+
+**Progress Reports on items from past meeting**. List any topics from the past meeting that needed follow up, and what the outcome was.
+
+For example, perhaps the last meeting agenda had a “Review Draft Graphics” agenda topic under New Work. During the meeting, the team decided that Min and Susie needed to add sources to their graphics (and they recorded this in the minutes under new work). The agenda would have “Review Draft Graphics” under “Past Meeting Items” (because the item isn’t finished) to see what the outcome was.
+
+Keep this on the agenda so that everyone can report on past work items.
+
+**New Work Items**. This is where you’ll list any new work items that you’ll discuss in the next meeting and how much time you think each will take.
+
+**Any other business**. This is standard, so add it to the agenda.
+
+**Next Meeting**. This is a standard agenda item, so  copy it as the #6 item for each week’s agenda. It’s just to allow members to decide the date, time, and location for the next meeting.
