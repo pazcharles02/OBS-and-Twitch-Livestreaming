@@ -1,75 +1,54 @@
 ---
 layout: default
-title: Connecting and Starting the Server
+title: What to do: The Meetign Chair
 nav_order: 3
 ---
 
-# Customization
-{: .no_toc }
+## The Meeting Chair
 
-## Table of contents
-{: .no_toc .text-delta }
+The Chair brings the agenda and runs the meeting, starting from Agenda item 1 and working down to complete the agenda in the time available. 
 
-1. TOC
-{:toc}
 
----
+The Chair should start discussions and get consensus on items that need agreement.
 
-## Color schemes
-{: .d-inline-block }
+These responsibilities are for the best possible meeting outcomes. Try and use them to develop your skills in team meetings. Though it may be challenging, give it a try.
 
-New
-{: .label .label-green }
+### Responsibilities for chair
+- Start the meeting.  
+- Make sure everyone has charter available
+- State apologies for absences. 
+- Ask for approval for agenda by one person. Ask for second. 
+- Ask for additions or amendments to minutes. 
+- State the objectives of the meeting and each item.
+- Try to be brief when making a point.
+### Control meeting
+- Maintain control by starting all topics. 
+- Set out time limits. 
+- Allow people to share any ideas. 
+- Keep to the agenda.
+- Ensure time is used effectively.
+- Ensure that proper minutes are taken.
+### Support all teammates
+- Ensure full participation by asking all members for opinions. 
+- Help quiet teammates to have a say
+- Advise people who are dominating to give everyone the chance to speak. 
+- Bring up issues that are tough for others and ask any awkward questions. 
+### Show fair leadership
+- Be impartial for all contributions. 
+- Summarize all points in favour and all points not in favour when consensus is needed.
+### Clarify issues for team understanding
+- Ensure everyone understands what is being discussed.
+- Summarize effectively for all members. 
+- Ensure that decisions are recorded, together with who is going to implement them.  
+### Ensure fair and open decisions
+- Make sure decisions are made according to charter.
+### Guide
+- Guide the meeting to move it forward and get through all items. 
+- Steer members to work harmoniously and purposefully as a team.
+- Keep an eye on time.
+### At the End of the Meeting
+- Summarize decisions taken and action points to be followed up e.g. who's responsible, by when.
+- Agree a date for the next meeting.
+- Agree what special items will be put on the agenda of the next meeting and what work needs to be done, by whom etc.
+- Ensure that the minutes are written up and sent out in good time.
 
-Just the Docs supports two color schemes: light (default), and dark.
-
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
-
-#### Example
-{: .no_toc }
-
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-
-## Specific visual customization
-
-To customize your site’s aesthetic, open `_sass/custom/custom.scss` in your editor to see if there is a variable that you can override. Most styles like fonts, colors, spacing, etc. are derived from these variables. To override a specific variable, uncomment its line and change its value.
-
-For example, to change the link color from the purple default to blue, open `_sass/custom/custom.css` and find the `$link-color` variable on line `50`. Uncomment it, and change its value to our `$blue-000` variable, or another shade of your choosing.
-
-#### Example
-{: .no_toc }
-
-```scss
-// ...
-//
-// $body-text-color: $grey-dk-100;
-// $body-heading-color: $grey-dk-300;
-$link-color: $blue-000;
-//
-// ...
-```
-
-_Note:_ Editing the variables directly in `_sass/support/variables.scss` is not recommended and can cause other dependencies to fail.
-
-## Override styles
-
-For styles that aren't defined as a variables, you may want to modify specific CSS classes. To add your own CSS overrides at the end of the cascade, edit `_sass/overrides.scss`. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied.
-
-For example, if you'd like to add your own styles for printing a page, you could add the following styles.
-
-#### Example
-{: .no_toc }
-
-```scss
-// Print-only styles.
-@media print {
-  .side-bar, .page-header { display: none; }
-  .main-content { max-width: auto; margin: 1em;}
-}
-```
