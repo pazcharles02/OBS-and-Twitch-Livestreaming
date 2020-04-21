@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testing your ability to do this
-nav_order: 2
+nav_order: 3
 ---
 
 ## All team members responsibilities
