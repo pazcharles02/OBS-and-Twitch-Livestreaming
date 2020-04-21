@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sample Meeting Minutes
-nav_order: 5
+nav_order: 7
 ---
 
 ## Sample Meeting Minutes
