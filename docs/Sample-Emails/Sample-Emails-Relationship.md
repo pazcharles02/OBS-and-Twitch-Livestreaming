@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Relationship with Reader
-parent: Sample-Emails
+parent: Sample Emails
 nav_order: 2
 ---
 
