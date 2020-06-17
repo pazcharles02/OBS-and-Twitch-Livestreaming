@@ -1,3 +1,11 @@
+---
+layout: default
+title: Relationship with Reader
+parent: Sample-Emails
+nav_order: 2
+---
+
+
 # Sample Emails: Relationship
 
 Why doesn’t this email create an effective relationship with the reader or a good image of the writer?
