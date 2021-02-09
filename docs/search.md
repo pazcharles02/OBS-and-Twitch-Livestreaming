@@ -9,7 +9,7 @@ nav_order: 5
 The Recorder should take notes during a meeting (see below for template and instructions) and then turn those notes into meeting minutes. 
 
 
-The Recorder should complete the minutes up to one day after the meeting, post them to Learning Hub (Assignments, Meeting 1 Minutes) and send them to team members.
+The Recorder should complete the minutes up to one day after the meeting, post them to Learning Hub (Team Integration Manual) and share them with team members.
 
 Include the word “Minutes” , your team name, and the meeting date in the file name.
 
@@ -82,4 +82,4 @@ Look at this template, which follows the agenda.
     6. Next Meeting
     Record the date, time, and location of your next meeting. Record what the focus will be (any questions or actions for the next meeting)
 
-**Create the minutes in a Word document using the template above.**    
+**Create the minutes in a Google document using the template above. Put each of the 3 expected minutes in the Team Integration Manual**    
