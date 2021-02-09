@@ -17,5 +17,7 @@ Use the process that follows to decide as a group - and it must come from the wh
 2. In the Google Doc, write down any and all examples of positive and negative behaviours you have seen at those meetings. 
 3. As a team, identify which of the examples could be adopted - and which should be avoided - for the new project. 
 4. Create a new Google Doc entitled "[Insert Team Name] Meeting Protocols" and co-create your meeting rules. You can use bullets for the doc. 
-5. Share doc with your instructors by DM and upload to Learning Hub.
+5. Each person sign the document to show you will stick to these rules. 
+6. Create a folder called Team Integration Manual and place the doc in there. 
+6. Share folder with your instructors by DM and upload to Learning Hub.
 
