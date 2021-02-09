@@ -15,7 +15,7 @@ These responsibilities are for the best possible meeting outcomes. Try and use t
 
 ### Responsibilities for chair
 - Start the meeting.  
-- Make sure everyone has charter available
+- Make sure everyone has meeting protocols available.
 - State apologies for absences. 
 - Ask for approval for agenda by one person. Ask for second. 
 - Ask for additions or amendments to minutes. 
