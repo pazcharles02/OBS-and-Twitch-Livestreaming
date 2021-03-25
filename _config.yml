@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Meetings 101 
-description: Markdown journey
-baseurl: "/Meetings" # the subpath of your site, e.g. /blog
-url: "https://sammyjlee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: OBS and Twitch Livestreaming
+description: Instruction Manual for OBS Twitch Livestreaming
+baseurl: "/TwitchLivestreamingAndObs" # the subpath of your site, e.g. /blog
+url: "https://pazcharles02.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
