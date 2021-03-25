@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: OBS and Twitch Livestreaming
 description: Instruction Manual for OBS Twitch Livestreaming
-baseurl: "/TwitchLivestreamingAndObs" # the subpath of your site, e.g. /blog
+baseurl: "/OBS-and-Twitch-Livestreaming/" # the subpath of your site, e.g. /blog
 url: "https://pazcharles02.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
