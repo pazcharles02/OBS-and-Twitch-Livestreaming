@@ -10,6 +10,10 @@ permalink: /
 
 This guide is designed for beginners to start streaming quickly using OBS studio.
 
+OBS Studio is a free livestreaming and recording program intended for all users to create and broadcast content across various platforms.
+
+
+
 
 
 ## Table of Contents
@@ -30,6 +34,8 @@ Please ensure you have the following:
 
 
 ## Software Versions
+
+
 
 *This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10*
 If you do not have OBS installed, download the latest version of OBS [here.](https://obsproject.com/download).
