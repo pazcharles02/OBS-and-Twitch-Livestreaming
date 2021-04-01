@@ -13,13 +13,14 @@ To test this, ensure that the volume bars in the audio mixer section properly di
 Speak into your microphone. The 'Microphone Capture' volume bar should rise accordingly. 
 If there is sound coming from your computer, the 'Audio Output Capture' volume bar should rise accordingly.
 
+---
 
-#### Mac Setup for Capturing Audio Source (Skip for PC Users)
+### Mac Setup for Capturing Audio Source (Skip for PC Users)
 
 At this stage, you should have OBS downloaded and installed on your Mac.
 
-**1.** Download and install iShowU Audio Capture [here](https://support.shinywhitebox.com/hc/en-us/articles/204161459-Installing-iShowU-Audio-Capture-Mojave-and-earlier-) and follow the steps on the website to install iShowU Audio Capture.
+**1.** Download and install iShowU Audio Capture [here](https://support.shinywhitebox.com/hc/en-us/articles/204161459-Installing-iShowU-Audio-Capture-Mojave-and-earlier-) and follow the steps on the website to install iShowU Audio Capture. **Make sure to download the right version for your OS (click on the Catalina one if you are running on Catalina)**
 
 **Note** iShowU Audio allows Mac Users to route the audio from our computer into OBS, so people watching your stream
 
-**2.** 
+**2.**  
