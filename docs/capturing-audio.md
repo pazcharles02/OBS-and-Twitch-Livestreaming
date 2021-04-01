@@ -13,6 +13,7 @@ To test this, ensure that the volume bars in the audio mixer section properly di
 Speak into your microphone. The 'Microphone Capture' volume bar should rise accordingly. 
 If there is sound coming from your computer, the 'Audio Output Capture' volume bar should rise accordingly.
 
+
 #### Mac Setup for Capturing Audio Source (Skip for PC Users)
 
 At this stage, you should have OBS downloaded and installed on your Mac.
