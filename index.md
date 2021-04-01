@@ -24,7 +24,8 @@ This guide is designed for beginners to start streaming quickly using OBS studio
 
 ## Prerequisites
 
-Please ensure you have the following 
+Please ensure you have the following:
+
 
 ## Software Versions
 
