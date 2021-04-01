@@ -18,9 +18,7 @@ The following sections will outline the essential steps required to prepare for 
 
 ---
 
-## Table of Contents
-
----
+### Table of Contents
 
 - [Creating Scene](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/creating-scene)
 - [Capturing Display with Source](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/capturing-display-with-source)
@@ -43,8 +41,6 @@ Please ensure you have the following:
 
 ## Software Versions
 
----
-
 *This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10*
 
 If you do not have OBS installed, download the latest version of OBS [here.](https://obsproject.com/download)
@@ -52,8 +48,6 @@ If you do not have OBS installed, download the latest version of OBS [here.](htt
 ---
 
 ## Why use OBS Studio?
-
----
 
 OBS Studio is the base version of OBS without any extra modifications or plugins and extensions added on to it by any third party. OBS is also one of the most standard broadcast software programs currently available. We recommend you use this so that you can have full control and ability to customize any part of OBS to your liking, exactly how you want. Because OBS is free and the code source is open to public, it allows developers to improve the software on an open source contribution system
 
