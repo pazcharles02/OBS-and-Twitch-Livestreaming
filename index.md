@@ -6,41 +6,29 @@ description: "Working together to get it done"
 permalink: /
 ---
 
-## OBS TINGS YUUHHH
+## Introduction
 
-This section contains information, templates and samples about team meetings, minutes, and agendas.
-
-You can use the Meeting Minutes Template for all your team meetings.
-
-Remember, each person should be responsible for elements of the team meetings. One person will create the agenda (after consulting everyone), one will chair the meeting, and one will record the minutes and upload them.
-
-Practice meetings, setting agendas and creating minutes to show your skills for future employers. Meetings are common to all organizations.
+This guide is designed for beginners to start streaming quickly using OBS studio.
 
 
-## The value of meetings
 
-Your project is unique; you have teams of people who haven't met before. As you are working on a project together, you need to communicate effectively, and team meetings are one place to do that.
+## Table of Contents
 
-Team meetings are vital for all project work. Here are a few valuable reasons for having meetings:
+- Instructions 1
+- Instructions 2
+- Instructions 3
+- Instructions 4
+- Instructions 5
+- Troubleshooting
+- [Glossary](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/Glossary)
 
-- They enable all of you to know what people are going to do, ensuring that things get done on your project.
-- They allow you to come together, check in on work progress, and help each other out with problems.
-- They can improve team performance and project quality.
-- They improve collaboration on projects, especially in this project where you are in different locations and on different courses.
-- They allow you to gel as a team. The meeting is your opportunity to share.
+## Prerequisites
 
-## Dangers of not having meetings
+Please ensure you have the following 
 
-As meetings allow you all to keep updated, discuss ideas, and share progress, they can make sure all team members understand what is happening, who is doing what, and how you can all work together.
+## Software Versions
 
-Without meetings, these things can happen:
-
-- People work on things which haven't been approved by the team. Everyone must be on the same page;
-- Time can be wasted; the meetings enable you to carry on where you left off;
-- Important information can get lost. The meeting is the place for you to document all work, what needs to be done, by whom, and by when;
-- Social loafers (aka Slackers) can coast through. Meetings allow you to keep the team on task, even when you all have different levels of work through the project.
-
-The next part goes over *agendas* and *meeting minutes*. 
-These are vital to productive meetings; **productivity is the goal of every meeting**. Action is the goal of all meetings, moving the team and project forward always.
+*This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10*
+If you do not have OBS installed, download the latest version of OBS [here.](https://obsproject.com/download).
 
 > **Takeaway:** Meetings have little value if there is no action.
