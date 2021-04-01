@@ -14,10 +14,10 @@ This guide is designed for beginners to start streaming quickly using OBS studio
 
 ## Table of Contents
 
-- [Creating Scene](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/Creating%20Scene)
-- [Capturing Display with Source](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/Capturing%20Display%20with%20Source)
-- [Capturing Audio](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/Capturing%20Audio)
-- Instructions 4
+- [Creating Scene](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/creating-scene)
+- [Capturing Display with Source](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/capturing-display-with-source)
+- [Capturing Audio](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/capturing-audio)
+- [Instructions 4](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/instructions-4)
 - [Go Live](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live)
 - [Troubleshooting](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary/troubleshooting)
 - [Glossary](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary)
