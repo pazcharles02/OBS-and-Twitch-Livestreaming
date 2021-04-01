@@ -6,7 +6,7 @@ description: "Working together to get it done"
 permalink: /
 ---
 
-## Meetings
+## OBS TINGS YUUHHH
 
 This section contains information, templates and samples about team meetings, minutes, and agendas.
 
