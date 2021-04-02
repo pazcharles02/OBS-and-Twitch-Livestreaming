@@ -23,4 +23,8 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 **Note** iShowU Audio allows Mac Users to route the audio from our computer into OBS, so people watching your stream
 
-**2.**  
+**2.**  Upon installing iShowU Audio successfully, restart your Mac
+
+**3.** You can check that you have installed iShowU Audio successfully by checking System Preference > Sound > Output and iShowU Audio shows up as one of your sound output options
+
+
