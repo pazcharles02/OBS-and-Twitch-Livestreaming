@@ -16,10 +16,10 @@ To capture a specific window, create a new 'Window Capture' source, and select t
 
 If you intend to capture a fullscreen application or game, make sure it is running, then create a 'Game Capture' source.
 
-![alt text](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/GameCaptureProperties.png "Game Capture Properties")
+![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/GameCaptureProperties.png?raw=true)
 
 1. We recommend using the mode 'Capture Specific Window', as this gives you the most control over which application OBS detects and captures.
-2. Select your app/game from the drop-down 'window' menu.
+2. Select your app/game from the drop-down 'window' menu
 3. Press 'OK'
 
 Should you need to change these capture settings at any time, right click the source, view properties, and select a different program to capture from the drop-down menu.
