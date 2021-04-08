@@ -29,4 +29,6 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 ![iShowU Audio Installed](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/iShowU%20Audio%20Installed.png?raw=true "iShowU Audio Installed Screenshot")
 
+**4.** Next, you want to click on the spotlight search (See 1 in the photo below), and type in "Audio MIDI Setup" (See 2 in the photo below). Open Audio MIDI Setup.
+
 ![Audio MIDI Setup](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Audio%20MIDI%20Setup.png?raw=true "Audio MIDI Setup Screenshot")
