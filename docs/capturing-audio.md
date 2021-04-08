@@ -49,4 +49,19 @@ At this stage, you should have OBS downloaded and installed on your Mac.
   
 ![Sound > Output](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Sound%3EOutput.png?raw=true "Sound > Output Screenshot")
 
+**9.** Open OBS, and check if OBS is receiving mic's audio properly.
 
+  1) Click on the setting button (labeled 1)
+  2) Click on the drop-down menu named "Properties"
+
+![Audio Properties](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Audio%20Properties.png?raw=true "Audio Properties Screenshot")
+
+  3) Select where the mic audio is coming from by clicking the dropdown (Labeled 1)
+  4) Select the mic (Labeled 2)
+  5) Press OK (Labeled 3)
+
+![Audio Properties Detail](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Audio%20Properties%20Detail.png?raw=true "Audio Properties Detail Screenshot")
+
+**10.** 
+  1) Click on the setting button (labeled 1)
+  2) Click on the drop-down menu named "Advanced Audio Properties" (labeled 2)
