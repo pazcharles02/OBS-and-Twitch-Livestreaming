@@ -9,14 +9,15 @@ nav_order: 3
 Now that you have created a scene, you can now build the look of your stream by layering sources on it.
 Think of your scene as the stage for a theatrical play. The sources you add are the moving set pieces that your audience will see.
 
-Please direct your attention to the Sources module and press the '+' button: 
+1. Press the '+' button under the Sources module: 
 
 ![Source Empty](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Empty.png?raw=true)
 
-You should see a menu similar to the one below:
-*For your convenience, we have highlighted the most commonly used sources for livestreaming*
+You should see a menu similar to this:
 
 ![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_add_menu.png?raw=true)
+
+2. Select the type of source that best suits your needs:
 - [Display Capture](#capturing-your-entire-screen): Get your entire screen
 - [Game Capture](#capturing-a-game): Capture a fullscreen application / game
 - [Window Capture](#capturing-a-window): Capture a specific window (e.g. A web browser)
@@ -26,7 +27,7 @@ You should see a menu similar to the one below:
 
 ## Capturing Your Entire Screen
 
-Select Display Capture. The properties window should appear.
+When you select Display Capture, the properties window should appear like this:
 
 ![Display Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Display_Properties.png?raw=true)
 1. Select your monitor from the drop-down menu
@@ -35,15 +36,19 @@ Select Display Capture. The properties window should appear.
 
 ## Capturing a Game
 
+When you select Game Capture, the properties window should appear like this:
+
 ![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/GameCaptureProperties.png?raw=true)
 
-1. We recommend using the mode 'Capture Specific Window', as this gives you the most control over which application OBS detects and captures.
-2. Select your app/game from the drop-down 'window' menu
+1. Select 'Capture Specific Window' in the 'Mode' drop-down menu (This gives you the most control over which application OBS detects and captures)
+2. Select your app/game from the drop-down 'Window' menu
 3. Press 'OK'
 
 If you cannot find your currently running application in the drop-down menu, try searching for it using a Window Capture source instead.
 
 ## Capturing a Window
+
+When you select Window Capture, the properties window should appear like this:
 
 ![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Window_Cap_Properties.png?raw=true)
 
