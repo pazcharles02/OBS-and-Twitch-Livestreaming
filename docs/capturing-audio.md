@@ -32,3 +32,7 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 **4.** Next, you want to click on the spotlight search (See 1 in the photo below), and type in "Audio MIDI Setup" (See 2 in the photo below). Open Audio MIDI Setup.
 
 ![Audio MIDI Setup](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Audio%20MIDI%20Setup.png?raw=true "Audio MIDI Setup Screenshot")
+
+**5.** To be able to hear both your microphone and game/computer capture audio, we need to create a multi output device that contains those two audio outputs.
+
+![Create Multiple Output Device](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Create%20Multiple%20Output%20Device.png?raw=true "Create Multiple Output Device Screenshot")
