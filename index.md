@@ -2,7 +2,7 @@
 layout: default
 title: OBS and Twitch Setup Introduction
 nav_order: 1
-description: "yamom"
+description: "An Introduction to OBS and Livestreaming"
 permalink: /
 ---
 
