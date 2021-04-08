@@ -17,7 +17,7 @@ You should see a menu similar to the one below:
 *For your convenience, we have highlighted the most commonly used sources for livestreaming*
 
 ![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_add_menu.png?raw=true)
-- Display Capture: Get your entire screen
+- [Display Capture](#capturing-your-entire-screen): Get your entire screen
 - Game Capture: Capture a fullscreen application / game
 - Window Capture: Capture a specific window (e.g. A web browser)
 - Video Capture Device: Get feed from a connected webcam, camera, or other external capture device
