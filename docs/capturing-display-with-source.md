@@ -13,10 +13,8 @@ Please direct your attention to the Sources module and press the '+' button:
 
 ![Source Empty](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Empty.png?raw=true)
 
-*If your stream does not require your audience to see your computer screen (e.g. Use of camera to record a fitness sessions), skip to capturing camera.*
-
-
-We have highlighted the most commonly used sources for livestreaming:
+You should see a menu similar to the one below:
+*For your convenience, we have highlighted the most commonly used sources for livestreaming*
 
 ![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_add_menu.png?raw=true)
 - Display Capture: Get your entire screen
@@ -26,15 +24,16 @@ We have highlighted the most commonly used sources for livestreaming:
 
 *When using Game Capture or Window Capture, the application you wish to capture must already be running for OBS to detect it.*
 
-## Capturing Display with Source
+## Capturing Your Entire Screen
 
-After selecting Display Capture, the properties window should appear.
+Select Display Capture. The properties window should appear.
 
 ![Display Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Display_Properties.png?raw=true)
 1. Select your monitor from the drop-down menu
 2. If you do not want the audience to see your cursor, uncheck the 'Capture Cursor' box
 3. Press 'OK'
 
+## Capturing a Game
 
 ![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/GameCaptureProperties.png?raw=true)
 
@@ -42,10 +41,22 @@ After selecting Display Capture, the properties window should appear.
 2. Select your app/game from the drop-down 'window' menu
 3. Press 'OK'
 
+If you cannot find your currently running application in the drop-down menu, try searching for it using a Window Capture source instead.
+
+## Capturing a Window
+
+![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Window_Cap_Properties.png?raw=true)
+
+1. Select your window from the drop-down menu 
+2. Verify that the window you want to capture has appeared in the preview
+3. Press 'OK'
+
+
+
 Should you need to change these capture settings at any time, right click the source, view properties, and select a different program to capture from the drop-down menu.
 
 ## Capturing Camera
-
+*If your stream does not require your audience to see your computer screen (e.g. Use of camera to record a fitness sessions), skip to capturing camera.*
 Ensure your recording device is connected to your computer
 Create a new 'Video Capture Device' source
 Select your device from the drop down menu and press OK.
