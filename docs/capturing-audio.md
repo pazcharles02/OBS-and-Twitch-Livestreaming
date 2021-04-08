@@ -27,4 +27,4 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 **3.** You can check that you have installed iShowU Audio successfully by checking System Preference > Sound > Output and iShowU Audio shows up as one of your sound output options
 
-
+![iShowU Audio Installed](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/iShowU%20Audio%20Installed.png?raw=true "iShowU Audio Installed Screenshot")
