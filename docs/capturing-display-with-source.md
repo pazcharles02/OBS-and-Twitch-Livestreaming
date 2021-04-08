@@ -18,9 +18,9 @@ You should see a menu similar to the one below:
 
 ![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_add_menu.png?raw=true)
 - [Display Capture](#capturing-your-entire-screen): Get your entire screen
-- Game Capture: Capture a fullscreen application / game
-- Window Capture: Capture a specific window (e.g. A web browser)
-- Video Capture Device: Get feed from a connected webcam, camera, or other external capture device
+- [Game Capture](#capturing-a-game): Capture a fullscreen application / game
+- [Window Capture](#capturing-a-window): Capture a specific window (e.g. A web browser)
+- [Video Capture Device](#capturing-camera-feed-or-external-device): Get feed from a connected webcam, camera, or other external capture device
 
 *When using Game Capture or Window Capture, the application you wish to capture must already be running for OBS to detect it.*
 
@@ -55,7 +55,7 @@ If you cannot find your currently running application in the drop-down menu, try
 
 Should you need to change these capture settings at any time, right click the source, view properties, and select a different program to capture from the drop-down menu.
 
-## Capturing Camera
+## Capturing Camera Feed or External Device
 *If your stream does not require your audience to see your computer screen (e.g. Use of camera to record a fitness sessions), skip to capturing camera.*
 Ensure your recording device is connected to your computer
 Create a new 'Video Capture Device' source
