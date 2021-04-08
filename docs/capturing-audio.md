@@ -42,3 +42,11 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 
 ![Select Audio Output](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Select%20Audio%20Output.png?raw=true "Select Audio Output Screenshot")
+
+**7.** Close Audio MIDI Setup's window
+
+**8.** Go in System Preferences>Sound>Output, and make sure Output is set to <Streaming>
+  
+![Sound > Output](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Sound%3EOutput.png?raw=true "Sound > Output Screenshot")
+
+
