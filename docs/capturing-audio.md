@@ -23,21 +23,22 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 **Note** iShowU Audio allows Mac Users to route the audio from our computer into OBS, so people watching your stream
 
-**2.**  Upon installing iShowU Audio successfully, restart your Mac & accept security pop-up
+**2.**  Restart your Mac & accept security pop-up upon installing iShowU Audio successfully.
 
-**3.** You can check that you have installed iShowU Audio successfully by checking System Preference > Sound > Output and iShowU Audio shows up as one of your sound output options
+**3.** Check that you have installed iShowU Audio successfully by checking System Preference > Sound > Output and iShowU Audio shows up as one of your sound output options
 
 ![iShowU Audio Installed](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/iShowU%20Audio%20Installed.png?raw=true "iShowU Audio Installed Screenshot")
 
-**4.** Next, you want to click on the spotlight search (See 1 in the photo below), and type in "Audio MIDI Setup" (See 2 in the photo below). Open Audio MIDI Setup.
+**4.** Click on the spotlight search (See 1 in the photo below), and type in "Audio MIDI Setup" (See 2 in the photo below). Open Audio MIDI Setup.
 
 ![Audio MIDI Setup](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Audio%20MIDI%20Setup.png?raw=true "Audio MIDI Setup Screenshot")
 
-**5.** To be able to hear both your microphone and game/computer capture audio, we need to create a multi output device that contains those two audio outputs. Click on the "+" button (See 1 in the photo below) and click on the drop-down "Create Multi-Output Device" (See 2 in the photo below).
+**5.** Create a multi output device that contains those two audio outputs. Click on the "+" button (See 1 in the photo below) and click on the drop-down "Create Multi-Output Device" (See 2 in the photo below). 
+**Note** This will allow you to hear both your microphone and game/computer capture audio.
 
 ![Create Multiple Output Device](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Create%20Multiple%20Output%20Device.png?raw=true "Create Multiple Output Device Screenshot")
 
-**6.** Next, you want to select both the "Built-in Output"/"Your Own Sound Card" and iShowU Audio Capture
+**6.** Select both the "Built-in Output"/"Your Own Sound Card" and iShowU Audio Capture
 
 
 ![Select Audio Output](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Select%20Audio%20Output.png?raw=true "Select Audio Output Screenshot")
