@@ -23,6 +23,7 @@ We have highlighted the most commonly used sources for livestreaming:
 - Game Capture: Capture a fullscreen application / game
 - Window Capture: Capture a specific window (e.g. A web browser)
 - Video Capture Device: Get feed from a connected webcam, camera, or other external capture device
+
 *When using Game Capture or Window Capture, the application you wish to capture must already be running for OBS to detect it.*
 
 ## Capturing Display with Source
