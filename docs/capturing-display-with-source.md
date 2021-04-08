@@ -4,17 +4,31 @@ title: Capturing Display with Source
 nav_order: 3
 ---
 
-## Capturing Display with Source
+## Sources Overview
 
 Now that you have created a scene, you can now build the look of your stream by layering sources on it.
+Think of your scene as the stage for a theatrical play. The sources you add are the moving set pieces that your audience will see.
 
-If your stream is focused on real-life activity (e.g. Use of camera to record a fitness sessions), skip to capturing camera. 
+Please direct your attention to the Sources module and press the '+' button: 
+![Source Empty](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Empty.png?raw=true)
 
-To capture your entire desktop, create a new 'Display Capture' source, and select your monitor.
+*If your stream does not require your audience to see your computer screen (e.g. Use of camera to record a fitness sessions), skip to capturing camera.*
+We have highlighted the most commonly used sources for livestreaming:
+![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_add_menu.png?raw=true)
+- Display Capture: Get your entire screen
+- Game Capture: Capture a fullscreen application / game
+- Window Capture: Capture a specific window (e.g. A web browser)
+- Video Capture Device: Get feed from a connected webcam, camera, or other external capture device
+*When using Game Capture or Window Capture, the application you wish to capture must already be running for OBS to detect it.*
 
-To capture a specific window, create a new 'Window Capture' source, and select the window from the drop-down menu.
+## Capturing Display with Source
 
-If you intend to capture a fullscreen application or game, make sure it is running, then create a 'Game Capture' source.
+After selecting Display Capture, the properties window should appear.
+![Display Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Display_Properties.png?raw=true)
+1. Select your monitor from the drop-down menu
+2. If you do not want the audience to see your cursor, uncheck the 'Capture Cursor' box
+3. Press 'OK'
+
 
 ![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/GameCaptureProperties.png?raw=true)
 
