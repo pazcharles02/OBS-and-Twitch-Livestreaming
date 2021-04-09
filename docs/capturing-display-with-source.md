@@ -85,3 +85,18 @@ When you create a Video Capture Device source, the properties window should appe
 
 ## Basic Source Manipulation
 
+Now that you have created a couple of sources, we will summarize how to use OBS's interface to structure and edit your sources.
+
+Note: The order of the sources in the Sources list directly reflect the layout of sources in your scene.
+
+In the following screenshot, Video Capture Device sits above Zoom Window Capture in the Sources list, thus allowing the webcam feed to appear in front of the zoom window. 
+
+![Source Manipulation Legend](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_manu_legend.png?raw=true)
+
+1. This preview shows how your stream will look to your audience. You can select a source by clicking them in the preview, then drag them into place or resize as desired.
+2. This 'eye' button indicates if a source is visible. Toggle it on/off to change the visibility of a source in your scene.
+3. This 'padlock' button indicates if a source is modifiable. It is useful if you have many sources on screen and you do not want to make changes to them. Toggle it on/off to lock/unlock editing for a source.
+4. Use this '+' to add additional sources to your scene.
+5. After selecting a source, press this '-' button to delete it from your scene.
+6. After selecting a source, press this cogwheel to view the properties for the source.
+7. After selecting a source, use these arrow keys to move the source up or down a layer. Alternatively, you can reorder your sources by dragging and dropping with your mouse.
