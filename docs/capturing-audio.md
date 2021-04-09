@@ -77,8 +77,10 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 **11.** Rename mic audio
 
-**12.** Add Audio Input Capture (your mic audio) to Sources > Now your mic audio should be set up properly and you should be able to hear your mic through your headphone or Built-in Audio Ouput.
+**12.** Add Audio Input Capture (your Mic audio) to Sources > Now your mic audio should be set up properly and you should be able to hear your mic through your headphone or Built-in Audio Ouput.
 
-![Add Mic Audio](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Advanced%20Audio%20Properties%20Detail.png?raw=true "Add Mic Audio Screenshot")
+![Add Mic Audio](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Mic%20Audio.png?raw=true "Add Mic Audio Screenshot")
 
-**12.** Add Audio Input Capture (your mic audio) to Sources
+![Add Mic Audio Details](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Mic%20Audio%20Screenshot.png?raw=true "Add Mic Audio Details Screenshot")
+
+**13.** Add Audio Input Capture (your Computer Audio) to Sources
