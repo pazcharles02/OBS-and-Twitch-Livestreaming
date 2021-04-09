@@ -30,7 +30,8 @@ You should see a menu similar to this:
 
 *When using Game Capture or Window Capture, the application you wish to capture must already be running for OBS to detect it.*
 
-After selecting a source type, OBS should prompt you with this screen: 
+After selecting a source type, OBS should prompt you with this screen:
+
 ![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_create.png?raw=true)
 
 3. Select 'Create New' and enter a name for your source.
