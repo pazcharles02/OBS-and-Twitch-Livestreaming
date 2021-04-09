@@ -94,7 +94,7 @@ In the following screenshot, Video Capture Device sits above Zoom Window Capture
 
 ![Source Manipulation Legend](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_manu_legend.png?raw=true)
 
-1. This preview shows how your stream will look to your audience. You can select a source by clicking them in the preview, then drag them into place or resize as desired.
+1. This preview shows how your stream will look to your audience. Modify the position of a source by clicking it in the preview, then drag it into place or resize as desired.
 2. This 'eye' button indicates if a source is visible. Toggle it on/off to change the visibility of a source in your scene.
 3. This 'padlock' button indicates if a source is modifiable. It is useful if you have many sources on screen and you do not want to make changes to them. Toggle it on/off to lock/unlock editing for a source.
 4. Use this '+' to add additional sources to your scene.
