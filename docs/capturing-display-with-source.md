@@ -23,7 +23,7 @@ You should see a menu similar to this:
 *The most commonly used sources are highlighted in red.*
 
 2. Select the type of source that best suits your needs:
-- [Display Capture](#capture-your-entire-screen): Get your entire screen
+- [Display Capture](#capture-your-entire-screen): Capture your entire screen
 - [Game Capture](#capture-a-game): Capture a fullscreen application / game
 - [Window Capture](#capture-a-window): Capture a specific window (e.g. A web browser)
 - [Video Capture Device](#capture-camera-feed-or-external-device): Get feed from a connected webcam, camera, or other external capture device
