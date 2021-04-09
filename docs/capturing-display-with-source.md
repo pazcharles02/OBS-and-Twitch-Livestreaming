@@ -4,10 +4,13 @@ title: Capturing Display with Source
 nav_order: 3
 ---
 
-## Sources Overview
+## Sources Introduction
 
 Now that you have created a scene, you can now build the look of your stream by layering sources on it.
+
 Think of your scene as the stage for a theatrical play. The sources you add are the moving set pieces that your audience will see.
+
+## Add a Source
 
 1. Press the '+' button under the Sources module: 
 
@@ -17,26 +20,34 @@ You should see a menu similar to this:
 
 ![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_add_menu.png?raw=true)
 
+*The most commonly used sources are highlighted in red.*
+
 2. Select the type of source that best suits your needs:
-- [Display Capture](#capturing-your-entire-screen): Get your entire screen
-- [Game Capture](#capturing-a-game): Capture a fullscreen application / game
-- [Window Capture](#capturing-a-window): Capture a specific window (e.g. A web browser)
-- [Video Capture Device](#capturing-camera-feed-or-external-device): Get feed from a connected webcam, camera, or other external capture device
+- [Display Capture](#capture-your-entire-screen): Get your entire screen
+- [Game Capture](#capture-a-game): Capture a fullscreen application / game
+- [Window Capture](#capture-a-window): Capture a specific window (e.g. A web browser)
+- [Video Capture Device](#capture-camera-feed-or-external-device): Get feed from a connected webcam, camera, or other external capture device
 
 *When using Game Capture or Window Capture, the application you wish to capture must already be running for OBS to detect it.*
 
-## Capturing Your Entire Screen
+After selecting a source type, OBS should prompt you with this screen: 
+![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_create.png?raw=true)
 
-When you select Display Capture, the properties window should appear like this:
+3. Select 'Create New' and enter a name for your source.
+4. Press 'OK'
+
+## Capture Your Entire Screen
+
+When you create a Display Capture source, the properties window should appear like this:
 
 ![Display Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Display_Properties.png?raw=true)
 1. Select your monitor from the drop-down menu
 2. If you do not want the audience to see your cursor, uncheck the 'Capture Cursor' box
 3. Press 'OK'
 
-## Capturing a Game
+## Capture a Game
 
-When you select Game Capture, the properties window should appear like this:
+When you create a Game Capture source, the properties window should appear like this:
 
 ![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/GameCaptureProperties.png?raw=true)
 
@@ -46,9 +57,9 @@ When you select Game Capture, the properties window should appear like this:
 
 If you cannot find your currently running application in the drop-down menu, try searching for it using a Window Capture source instead.
 
-## Capturing a Window
+## Capture a Window
 
-When you select Window Capture, the properties window should appear like this:
+When you create a Window Capture source, the properties window should appear like this:
 
 ![Game Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Window_Cap_Properties.png?raw=true)
 
@@ -57,11 +68,20 @@ When you select Window Capture, the properties window should appear like this:
 3. Press 'OK'
 
 
-
 Should you need to change these capture settings at any time, right click the source, view properties, and select a different program to capture from the drop-down menu.
 
-## Capturing Camera Feed or External Device
-*If your stream does not require your audience to see your computer screen (e.g. Use of camera to record a fitness sessions), skip to capturing camera.*
-Ensure your recording device is connected to your computer
-Create a new 'Video Capture Device' source
-Select your device from the drop down menu and press OK.
+## Capture Camera Feed or External Device
+
+When you create a Video Capture Device source, the properties window should appear like this:
+
+![Camera Capture Properties](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_cam_properties.png?raw=true)
+
+1. Find your connected device in the 'Device' drop-down menu (The preview window should show your live camera/device feed)
+2. Select 'Custom' Resolution/FPS Type
+3. Select the highest resolution value for your device (Usually the one at the top of the list)
+4. Select 'Highest FPS'
+5. Select 'Full' Color Range
+6. Press 'OK'
+
+## Basic Source Manipulation
+
