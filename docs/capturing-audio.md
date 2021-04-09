@@ -8,11 +8,21 @@ nav_order: 4
 
 By default, OBS Studio should be configured to capture both your desktop audio and microphone input audio.
 To test this, ensure that the volume bars in the audio mixer section properly display feedback based on audio activity.
-(IMAGE HERE)
 
-Speak into your microphone. The 'Microphone Capture' volume bar should rise accordingly. 
-If there is sound coming from your computer, the 'Audio Output Capture' volume bar should rise accordingly.
+1. Play any audio through your computer's sound system. The 'Desktop Audio' volume bar should rise accordingly. 
 
+![Desktop Audio Bar](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/PC_AudioMixer.png?raw=true)
+
+2. Speak into your microphone. The 'Mic/Aux' volume bar should rise accordingly. 
+
+![Desktop Audio Bar](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/PC_AudioMixer_Mic.png?raw=true)
+
+If you have a webcam or other connected device that can function as a microphone, it may appear in the Audio Mixer.
+To prevent overlapping audio, we recommend that you mute such devices by clicking the speaker icon such that it looks like this:
+
+![Desktop Audio Bar](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/PC_AudioMixer_webcam.png?raw=true)
+
+To adjust the input volume of your audio devices, click and drag the sliders under each volume bar.
 ---
 
 ### Mac Setup for Capturing Audio Source (Skip for PC Users)
