@@ -100,7 +100,7 @@ Finally, to get your stream key,
 
 **5.** Click "Copy"
 
-![Twitch Stream Key](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/twitch_stream_key.png?raw=true "Twitch Stream Key)
+![Twitch Stream Key](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/twitch_stream_key.png?raw=true "Twitch Stream Key")
 
 There you have it! Your stream key is now copied to your clipboard, and all we have to do is paste it into OBS.
 
@@ -110,22 +110,22 @@ With OBS Open, navigate to the settings page by:
 
 **1.** Click Settings near the bottom right of OBS.
 
-![OBS Settings Button](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_settings_button.png?raw=true "OBS Settings Button)
+![OBS Settings Button](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_settings_button.png?raw=true "OBS Settings Button")
 
 **2.** Click "Stream"
 
-![OBS Stream Settings Button](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_stream_settings_button.png?raw=true "OBS Stream Settings Button)
+![OBS Stream Settings Button](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_stream_settings_button.png?raw=true "OBS Stream Settings Button")
 
 **3.** Click on the drop-down menu beside "Service" and select Twitch.
 
-![OBS Streaming Service](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_streaming_service.png?raw=true "OBS Streaming Service)
+![OBS Streaming Service](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_streaming_service.png?raw=true "OBS Streaming Service")
 
 **4.** Right Click the text-box beside "Stream Key" and click "Paste." An alternative to this is left-clicking on the text box and pressing *Ctrl + V* on Windows or *⌘ + V* on Mac OS.
 
-![OBS Stream Key](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_stream_key.png?raw=true "OBS Stream Key)
+![OBS Stream Key](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_stream_key.png?raw=true "OBS Stream Key")
 
 **5.** Click "OK."
 
-![OBS Stream Key OK](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_stream_key_OK.png?raw=true "OBS Stream Key OK)
+![OBS Stream Key OK](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_stream_key_OK.png?raw=true "OBS Stream Key OK")
 
 And you're done! Your stream key has been set up, and all you need to do to start streaming and go live now is to hit the "Start Streaming" button in OBS!
