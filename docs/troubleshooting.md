@@ -8,14 +8,14 @@ nav_order: 7
 
 ## Game Capture Issues
 
-Question: "I cannot find my game in the Game Capture Source properties."
+**"I cannot find my game in the Game Capture Source properties."**
 
-Answer: Run OBS or your game in administrator mode. Sometimes games are not recognized by OBS for capture unless in administrator mode.
+Run OBS or your game in administrator mode. Sometimes games are not recognized by OBS for capture unless in administrator mode.
 
 
-Question "My game is being detected, but the preview just shows a black screen."
+**"My game is being detected, but the preview just shows a black screen."**
 
-Answer: If your game is running in fullscreen mode, this means that you will not see the game in the OBS preview while it is minimized. You can verify that your game is being detected by the following:
+If your game is running in fullscreen mode, this means that you will not see the game in the OBS preview while it is minimized. You can verify that your game is being detected by the following:
 
 - Move OBS to a second monitor to see if the preview changes when you reopen the game
 - Start a recording, then watch the video that is saved locally on your computer (Usually in your main hard drive 'Videos' folder').
@@ -58,7 +58,8 @@ Go to Settings -> Output -> Video Bitrate
 
 Your internet speed determines your bitrate limit. Run the [Ookla Speed Test](https://www.speedtest.net) and record your upload speed (measured in Mbps).
 
-Here are some setups that you can use based on your upload speed:
+**Here are some setups that you can use based on your upload speed:**
+
 ---
 
 1080p 60 fps (Full HD, high framerate)
@@ -119,7 +120,7 @@ Bitrate: 1500 to 2500 kbps
 
 Framerate: 60 fps
 
-
+---
 
 OBS Studio version 24+ includes a new setting called Dynamic Bitrate. This feature detects when your internet connection is unstable, and will dynamically adjust your bitrate for you while streaming. Using this setting should reduce instances of dropped frames. 
 
