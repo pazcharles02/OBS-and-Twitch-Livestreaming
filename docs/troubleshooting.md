@@ -8,11 +8,11 @@ nav_order: 7
 
 ## Game Capture Issues
 
-"I cannot find my game in the Game Capture Source properties."
+####"I cannot find my game in the Game Capture Source properties."
 
 Run OBS or your game in administrator mode. Sometimes games are not recognized by OBS for capture unless in administrator mode.
 
-"My game is being detected, but the preview just shows a black screen."
+####"My game is being detected, but the preview just shows a black screen."
 
 If your game is running in fullscreen mode, this means that you will not see the game in the OBS preview while it is minimized. You can verify that your game is being detected by the following:
 
