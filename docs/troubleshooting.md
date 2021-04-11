@@ -64,7 +64,9 @@ Your internet speed determines your bitrate limit. Run the [Ookla Speed Test](ht
 ---
 
 1080p 60 fps (Full HD, high framerate)
+
 Recommended upload speed: 6.5 to 8+ Mbps
+
 Resolution: 1920 x 1080
 
 Bitrate: 4500 to 6000 kbps
