@@ -8,11 +8,11 @@ nav_order: 7
 
 ## Game Capture Issues
 
-**I cannot find my game in the Game Capture Source properties.**
+"I cannot find my game in the Game Capture Source properties."
 
 Run OBS or your game in administrator mode. Sometimes games are not recognized by OBS for capture unless in administrator mode.
 
-**My game is being detected, but the preview just shows a black screen.**
+"My game is being detected, but the preview just shows a black screen."
 
 If your game is running in fullscreen mode, this means that you will not see the game in the OBS preview while it is minimized. You can verify that your game is being detected by the following:
 
@@ -27,6 +27,7 @@ If the above fails, try running your game in either windowed or fullscreen borde
 Remember that in addition to running your program/game, your computer now has to work additionally hard to stream it. 
 
 **1. Try lowering the output resolution of your stream**
+
 Go to Settings -> Video -> Output (Scaled) Resolution. Choose a lower resolution and test your stream again until you are satisfied with the performance. Note that you should keep your Base (Canvas) Resolution the same.
 
 ![Trouble Resolution](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/trouble-resolution.png?raw=true)
