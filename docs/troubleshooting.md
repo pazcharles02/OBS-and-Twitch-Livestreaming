@@ -26,7 +26,7 @@ If the above fails, try running your game in either windowed or fullscreen borde
 
 Remember that in addition to running your program/game, your computer now has to work additionally hard to stream it. 
 
-1. Try lowering the output resolution of your stream
+**1. Try lowering the output resolution of your stream**
 Go to Settings -> Video -> Output (Scaled) Resolution. Choose a lower resolution and test your stream again until you are satisfied with the performance. Note that you should keep your Base (Canvas) Resolution the same.
 
 ![Trouble Resolution](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/trouble-resolution.png?raw=true)
@@ -35,10 +35,12 @@ If you are choosing to downscale your resolution, the different downscale filter
 Bilinear is the best choice for maximizing performance. Lanczos is the best choice for maximizing image quality.
 Test your stream to determine with which filter satisfies your performance needs.
 
-2. Try lowering the output framerate of your stream
+**2. Try lowering the output framerate of your stream**
+
 Go to Settings -> Video -> Common FPS Values. If you are streaming at 60 FPS, choosing a lower value will increase performance.
 
-3. Remove/Modify Sources
+**3. Remove/Modify Sources**
+
 Any source that exists on your scene takes up computer resources. Take care to remove unnecessary sources that you are not currently using.
 
 If you are using a webcam/camera that isn't being displayed fullscreen on your stream, try lowering its capture resolution. To maximize performance, your webcam feed in the corner of the screen should not need be encoded in any greater than 720p.
