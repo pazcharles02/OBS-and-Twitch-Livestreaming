@@ -58,7 +58,8 @@ Go to Settings -> Output -> Video Bitrate
 
 Your internet speed determines your bitrate limit. Run the [Ookla Speed Test](https://www.speedtest.net) and record your upload speed (measured in Mbps).
 
-Here are some recommended setups based on your upload speed.
+Here are some setups that you can use based on your upload speed:
+---
 
 1080p 60 fps (Full HD, high framerate)
 
@@ -70,7 +71,7 @@ Bitrate: 4500 to 6000 kbps
 
 Framerate: 60 fps
 
-—
+---
 
 720p 60 fps (HD, high framerate)
 
@@ -82,7 +83,7 @@ Bitrate: 3500 to 5000 kbps
 
 Framerate: 60 fps
 
-—
+---
 
 1080p 30 fps (Full HD, standard framerate)
 
@@ -94,7 +95,7 @@ Bitrate: 3500 to 5000 kbps
 
 Framerate: 30 fps
 
-—
+---
 
 720p 30fps (HD, standard framerate)
 
@@ -106,7 +107,7 @@ Bitrate: 2500 to 4000 kbps
 
 Framerate: 30 fps
 
-—
+---
 
 480p 60 fps (SD, high framerate)
 
@@ -117,6 +118,8 @@ Resolution: 640 x 480
 Bitrate: 1500 to 2500 kbps
 
 Framerate: 60 fps
+
+
 
 OBS Studio version 24+ includes a new setting called Dynamic Bitrate. This feature detects when your internet connection is unstable, and will dynamically adjust your bitrate for you while streaming. Using this setting should reduce instances of dropped frames. 
 
