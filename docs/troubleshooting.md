@@ -29,6 +29,8 @@ Remember that in addition to running your program/game, your computer now has to
 1. Try lowering the output resolution of your stream
 Go to Settings -> Video -> Output (Scaled) Resolution. Choose a lower resolution and test your stream again until you are satisfied with the performance. Note that you should keep your Base (Canvas) Resolution the same.
 
+![Trouble Resolution](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/trouble-resolution.png?raw=true)
+
 If you are choosing to downscale your resolution, the different downscale filters (Bilinear, Area, Bicubic, and Lanczos) will also have some impact on your performance.
 Bilinear is the best choice for maximizing performance. Lanczos is the best choice for maximizing image quality.
 Test your stream to determine with which filter satisfies your performance needs.
@@ -44,8 +46,17 @@ If you are using a webcam/camera that isn't being displayed fullscreen on your s
 
 ## Stream Quality Issues
 
-Lower your bitrate.
+If you are experiencing framedrops while streaming, this is an indication of a network issue. 
+Try lowering your video bitrate:
+Go to Settings -> Output -> Video Bitrate
 
-OBS Studio 24 introduced a new feature called Dynamic Bitrate. This feature detects when your internet connection is limited, and will automatically reduce your bitrate to compensate rather than dropping frames. Once any congestion disappears, it will automatically raise your bitrate back to its original value.
+![Trouble change bitrate](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/trouble-change-br.png?raw=true)
 
-To enable Dynamic Bitrate, first ensure you are using OBS Studio 24 or higher by looking at your version number in the title bar of the program. Then, go to Settings > Advanced > Network and check the box next to the option that says "Dynamically change bitrate to manage congestion".
+
+OBS Studio version 24+ includes a new setting called Dynamic Bitrate. This feature detects when your internet connection is unstable, and will dynamically adjust your bitrate for you while streaming. Using this setting should reduce instances of dropped frames. 
+
+Go to Settings -> Advanced -> Network 
+
+Check the box: 'Dynamically change bitrate to manage congestion'
+
+![Trouble audio bitrate](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/trouble-autobitrate.png?raw=true)
