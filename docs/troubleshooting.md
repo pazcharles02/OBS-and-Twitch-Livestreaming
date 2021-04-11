@@ -58,7 +58,7 @@ Go to Settings -> Output -> Video Bitrate
 
 Your internet speed determines your bitrate limit. Run the [Ookla Speed Test](https://www.speedtest.net) and record your upload speed (measured in Mbps).
 
-**Here are some setups that you can use based on your upload speed:**
+**Here are some setups that you can use based on your network results:**
 
 ---
 
