@@ -51,6 +51,7 @@ If you are using a webcam/camera that isn't being displayed fullscreen on your s
 ## Stream Quality Issues
 
 If you are experiencing framedrops while streaming, this is an indication of a network issue. 
+
 Try lowering your video bitrate:
 Go to Settings -> Output -> Video Bitrate
 
@@ -63,9 +64,7 @@ Your internet speed determines your bitrate limit. Run the [Ookla Speed Test](ht
 ---
 
 1080p 60 fps (Full HD, high framerate)
-
 Recommended upload speed: 6.5 to 8+ Mbps
-
 Resolution: 1920 x 1080
 
 Bitrate: 4500 to 6000 kbps
