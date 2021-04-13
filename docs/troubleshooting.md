@@ -18,7 +18,7 @@ Run OBS or your game in administrator mode. Sometimes games are not recognized b
 If your game is running in fullscreen mode, this means that you will not see the game in the OBS preview while it is minimized. You can verify that your game is being detected by the following:
 
 - Move OBS to a second monitor to see if the preview changes when you reopen the game
-- Start a recording, then watch the video that is saved locally on your computer (Usually in your main hard drive 'Videos' folder').
+- Start a recording, then watch the video that is saved locally on your computer (Usually in your main hard drive 'Videos' folder).
 - Begin streaming and ask viewers to check that your game is being captured correctly.
 
 If the above fails, try running your game in either windowed or fullscreen borderless mode, and use a Window Capture source instead. Some games do not respond well to OBS game capture in fullscreen mode.
