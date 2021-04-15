@@ -110,9 +110,13 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 ![Add Computer Audio Input Capture](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture.png?raw=true "Add Computer Audio Input Capture Screenshot")
   
-  3. Click on 'Add Existing' (labeled 1) and select your mic 'SM7' in this case (labeled 2)
-  4. Press 'OK' (label 3)
+  3. Select 'Create new' and rename audio to 'Computer Audio' (labeled 1)
+  4. Press 'OK' (labeled 2)
 
 ![Add Computer Audio Input Capture Detail](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture%20Detail.png?raw=true "Add Computer Audio Input Capture Detail Screenshot")
 
+  5. Select 'iShowU Audio Capture'(labeled 1)
+  6. Press 'OK' (labeled 2)
+
 ![Add Computer Audio Input Capture Detail 2](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture%20Detail2.png?raw=true "Add Computer Audio Input Capture Detail 2 Screenshot")
+
