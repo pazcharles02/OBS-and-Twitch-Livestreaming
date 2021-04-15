@@ -101,3 +101,9 @@ In the following screenshot, Video Capture Device sits above Zoom Window Capture
 5. After selecting a source, press this '-' button to delete it from your scene.
 6. After selecting a source, press this cogwheel to view the properties for the source.
 7. After selecting a source, use these arrow keys to move the source up or down a layer. Alternatively, you can reorder your sources by dragging and dropping with your mouse.
+
+## Conclusion
+
+Congratulations! You should now have some sources set up. 
+You are very close to being ready to start your first stream. 
+Now head over to [Capturing Audio](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/capturing-audio/) to learn how to capture various audio feeds for your stream.
