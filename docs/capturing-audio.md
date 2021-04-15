@@ -60,6 +60,8 @@ At this stage, you should have OBS downloaded and installed on your Mac.
   
 ![Sound > Output](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Sound%3EOutput.png?raw=true "Sound > Output Screenshot")
 
+### Capturing Audio Source for BOTH PC & Mac Users
+
 **9.** Open OBS, and check if OBS is receiving mic's audio properly.
 
   1) Click on the setting button (labeled 1)
