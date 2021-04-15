@@ -26,7 +26,7 @@ To adjust the input volume of your audio devices, click and drag the sliders und
 
 ---
 
-### Mac Setup for Capturing Audio Source (Skip for PC Users)
+### Mac Setup for Capturing Audio Source (Skip Ahead to Step 9 for PC Users)
 
 At this stage, you should have OBS downloaded and installed on your Mac.
 
