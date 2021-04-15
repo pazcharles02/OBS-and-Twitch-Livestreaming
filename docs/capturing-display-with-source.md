@@ -12,7 +12,7 @@ Think of your scene as the stage for a theatrical play. The sources you add are 
 
 ## Add a Source
 
-1. Press the '+' button under the Sources module: 
+1\. Press the '+' button under the Sources module: 
 
 ![Source Empty](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_Empty.png?raw=true)
 
@@ -22,7 +22,7 @@ You should see a menu similar to this:
 
 *The most commonly used sources are highlighted in red.*
 
-2. Select the type of source that best suits your needs:
+2\. Select the type of source that best suits your needs:
 - [Display Capture](#capture-your-entire-screen): Capture your entire screen
 - [Game Capture](#capture-a-game): Capture a fullscreen application / game
 - [Window Capture](#capture-a-window): Capture a specific window (e.g. A web browser)
@@ -34,8 +34,8 @@ After selecting a source type, OBS should prompt you with this screen:
 
 ![Source Add Menu](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/assets/images/Source_create.png?raw=true)
 
-3. Select 'Create New' and enter a name for your source.
-4. Press 'OK'
+3\. Select 'Create New' and enter a name for your source.
+4\. Press 'OK'
 
 ## Capture Your Entire Screen
 
