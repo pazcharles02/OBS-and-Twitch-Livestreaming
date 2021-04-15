@@ -89,7 +89,7 @@ When you create a Video Capture Device source, the properties window should appe
 
 Now that you have created a couple of sources, we will summarize how to use OBS's interface to structure and edit your sources.
 
-Note: The order of the sources in the Sources list directly reflect the layout of sources in your scene.
+**Note: The order of the sources in the Sources list directly reflect the layout of sources in your scene.**
 
 In the following screenshot, Video Capture Device sits above Zoom Window Capture in the Sources list, thus allowing the webcam feed to appear in front of the zoom window. 
 
