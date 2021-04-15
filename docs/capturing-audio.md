@@ -120,3 +120,21 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 ![Add Computer Audio Input Capture Detail 2](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture%20Detail2.png?raw=true "Add Computer Audio Input Capture Detail 2 Screenshot")
 
+**14.** Test Computer Audio Input
+
+  1. Click on the Apple Icon on the top left of the home screen (labeled 1)
+  2. Go to System Preferences (labeled 2)
+
+![System Preference Screenshot](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/System%20Preference%20Screenshot.png?raw=true "System Preference Screenshot")
+
+  3. Select 'Sound' (labeled 3)
+
+![Sound](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Sound.png?raw=true "Sound Screenshot")
+
+  4. Click on 'Sound Effects' (labeled 4) and make sure 'Play sound effects through' is set to 'Screencap' (labeled 5)
+
+![Sound Testing](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Sound%20Testing.png?raw=true "Sound Testing Screenshot")
+
+ 5. Click on one of the alert sounds, you should see the meter/sound bar under Computer Audio in OBS to be registering some audio. If the sound bar under Computer Audio is fluctuating up and down on OBS, it means your stream is registering your Computer Audio Output.
+
+**15.** Your audio is all set up and good to go for streaming.
