@@ -44,14 +44,14 @@ These typographic conventions will be used throughout the guide:
 
 | Typeface    | Meaning     | Examples |
 | ----------- | ----------- | -------- |
-| *italics*   | Note; something to keep in mind for the following section      | *This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10* |
+| **bold**   | Note; something to keep in mind for the following section      | **Note: This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10** |
 | [Purple highlight]() | Hyperlinked text | Click [here](https://google.ca) to go to Google. |
 
 ---
 
 ## Software Versions
 
-*This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10*
+**Note: This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10**
 
 If you do not have OBS installed, download the latest version of OBS [here.](https://obsproject.com/download)
 
