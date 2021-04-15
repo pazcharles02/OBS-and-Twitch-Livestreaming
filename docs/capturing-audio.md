@@ -26,7 +26,7 @@ To adjust the input volume of your audio devices, click and drag the sliders und
 
 ---
 
-### Mac Setup for Capturing Audio Source (Skip Ahead to Step 9 for PC Users)
+### Mac Setup for Capturing Audio Source (Skip Ahead to [Step 9](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/capturing-audio/#capturing-audio-source-for-both-pc--mac-users) for PC Users)
 
 At this stage, you should have OBS downloaded and installed on your Mac.
 
@@ -136,4 +136,4 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 ![Sound Testing](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Sound%20Testing.png?raw=true "Sound Testing Screenshot")
 
 
-**Your audio is all set up and good to go for streaming.**
+**Your audio is all set up and good to go for streaming. Finally, let's [Go Live!](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live/)
