@@ -23,7 +23,6 @@ The following sections will outline the essential steps required to prepare for 
 - [Creating Scene](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/creating-scene)
 - [Capturing Display with Source](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/capturing-display-with-source)
 - [Capturing Audio](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/capturing-audio)
-- [Instructions 4](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/instructions-4)
 - [Go Live](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live)
 - [Troubleshooting](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/troubleshooting)
 - [Glossary](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/glossary)
