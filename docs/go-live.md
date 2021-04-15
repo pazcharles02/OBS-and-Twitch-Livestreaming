@@ -128,4 +128,4 @@ With OBS Open, navigate to the settings page by:
 
 ![OBS Stream Key OK](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/OBS_stream_key_OK.png?raw=true "OBS Stream Key OK")
 
-And you're done! Your stream key has been set up, and all you need to do to start streaming and go live now is to hit the "Start Streaming" button in OBS!
+And you're done! Your stream key has been set up, and all you need to do to start streaming and go live now is to click the "Start Streaming" button in OBS!
