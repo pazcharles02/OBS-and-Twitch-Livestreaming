@@ -12,7 +12,7 @@ Once you have all your scenes, sources, and audio devices set up, the last step 
 
 Let's start by navigating to the front page of Twitch. You can do so by clicking [here.](https://twitch.tv)
 
-*If you have already signed up and have access to an account, skip this part by clicking [here.](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live/#logging-in-on-twitch)*
+**Note: If you have already signed up and have access to an account, skip this part by clicking [here.](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live/#logging-in-on-twitch)**
 
 ### Signing Up on Twitch
 
@@ -50,7 +50,7 @@ Now that you've successfully signed up for an account with Twitch, move on to [L
 
 To log in to Twitch, let's begin by going to front page of Twitch first. You can visit this page [here.](https://twitch.tv)
 
-*If you do not see the "Log In" button on the top right of this page, move on to [this section.](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live/#getting-your-stream-key-on-twitch-to-go-live)
+**Note: If you do not see the "Log In" button on the top right of this page, move on to [this section.](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live/#getting-your-stream-key-on-twitch-to-go-live)
 
 Once on the front page, if you still see the "Log In" button on the top right of the front page of Twitch, you haven't logged in yet, and need to do so. You can do this by:
 
