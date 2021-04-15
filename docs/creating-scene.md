@@ -25,3 +25,7 @@ For a scene that would be for gameplay, we suggest you name the scene after the 
 **3.** Click the "OK" button.
 
 ![OBS Naming Scene](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/naming_scene.png?raw=true "OBS Naming Scene")
+
+## Conclusion
+
+Now that you have created a scene, head over to [Capturing Display With Source](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/capturing-display-with-source/) to learn how to populate it with the things you would like to record!
