@@ -96,4 +96,6 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 ![Add Mic Audio Details](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Mic%20Audio%20Screenshot.png?raw=true "Add Mic Audio Details Screenshot")
 
-**13.** Add Audio Input Capture (your Computer Audio) to Sources
+**13.** Add Computer Audio Input Capture (your Computer Audio) to Sources
+
+![Add Computer Audio Input Capture](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture.png?raw=true "Add Computer Audio Input Capture Screenshot")
