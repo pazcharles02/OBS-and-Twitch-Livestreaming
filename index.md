@@ -39,7 +39,9 @@ Please ensure you have the following:
 ---
 
 ## Typographical Conventions
+
 These typographic conventions will be used throughout the guide:
+
 | Typeface    | Meaning     | Examples |
 | ----------- | ----------- | -------- |
 | *italics*   | Note; something to keep in mind for the following section      | *This guide was written based on OBS Studio Version 26.1.2 for MacOS and Windows 10* |
