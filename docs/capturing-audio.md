@@ -135,5 +135,6 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 ![Sound Testing](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Sound%20Testing.png?raw=true "Sound Testing Screenshot")
 
+## Conclusion
 
-**Your audio is all set up and good to go for streaming. Finally, let's [Go Live!](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live/)
+Your audio is all set up and good to go for streaming. Finally, let's [Go Live!](https://pazcharles02.github.io/OBS-and-Twitch-Livestreaming/docs/go-live/)
