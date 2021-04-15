@@ -92,10 +92,27 @@ At this stage, you should have OBS downloaded and installed on your Mac.
 
 **12.** Add Audio Input Capture (your Mic audio) to Sources > Now your mic audio should be set up properly and you should be able to hear your mic through your headphone or Built-in Audio Ouput.
 
+        
+  1. Click on the '+' button (labeled 1)
+  2. Click on the drop-down menu named "Audio Input Capture" (labeled 2)
+
 ![Add Mic Audio](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Mic%20Audio.png?raw=true "Add Mic Audio Screenshot")
+
+  3. Click on 'Add Existing' (labeled 1) and select your mic 'SM7' in this case (labeled 2)
+  4. Press 'OK' (label 3)
 
 ![Add Mic Audio Details](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Mic%20Audio%20Screenshot.png?raw=true "Add Mic Audio Details Screenshot")
 
 **13.** Add Computer Audio Input Capture (your Computer Audio) to Sources
 
+  1. Click on the '+' button (labeled 1)
+  2. Click on the drop-down menu named "Audio Input Capture" (labeled 2)
+
 ![Add Computer Audio Input Capture](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture.png?raw=true "Add Computer Audio Input Capture Screenshot")
+  
+  3. Click on 'Add Existing' (labeled 1) and select your mic 'SM7' in this case (labeled 2)
+  4. Press 'OK' (label 3)
+
+![Add Computer Audio Input Capture Detail](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture%20Detail.png?raw=true "Add Computer Audio Input Capture Detail Screenshot")
+
+![Add Computer Audio Input Capture Detail 2](https://github.com/pazcharles02/OBS-and-Twitch-Livestreaming/blob/gh-pages/assets/images/Add%20Computer%20Audio%20Input%20Capture%20Detail2.png?raw=true "Add Computer Audio Input Capture Detail 2 Screenshot")
