@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Creating Scene
 
-*Before doing anything, keep note we are working with OBS version 26.1.1*
+**Note: Before doing anything, keep note we are working with OBS version 26.1.1**
 
 In order to capture things like your games, cameras, or whatever else you want your stream to see, we first need to create a scene. A scene is like a whole container for all the separate windows and screens you want to share with your stream.
 
